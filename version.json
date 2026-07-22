@@ -1,6 +1,6 @@
 {
-  "versionDatos": 1,
-  "fechaActualizacion": "2026-07-21",
+  "versionDatos": 2,
+  "fechaActualizacion": "2026-07-22",
   "municipiosTotales": 8132,
   "municipiosRevisados": 228,
   "archivo": "municipios.json"
