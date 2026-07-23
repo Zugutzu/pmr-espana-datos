@@ -1,0 +1,18 @@
+{
+  "versionTraducciones": 2,
+  "idioma": "fr",
+  "fechaActualizacion": "2026-07-23",
+  "municipiosTraducidos": 1,
+  "municipios": {
+    "18017": {
+      "tiposZona": [
+        "Zone bleue",
+        "Zone orange"
+      ],
+      "limiteTiempo": "Sans limite de durée.",
+      "horarioRegulado": "Centre-ville : du lundi au samedi, de 9 h à 14 h, toute l’année. Promenades du front de mer : pendant 10 jours à Pâques, du vendredi précédant le dimanche des Rameaux au dimanche de Pâques, et du 1er juillet au 31 août, tous les jours de 11 h à 15 h et de 19 h à 22 h.",
+      "condicionesPmr": "Vous pouvez stationner gratuitement et sans limite de durée dans la zone réglementée. Il suffit de laisser la carte de stationnement PMR clairement visible. Vous n’avez pas besoin de prendre un ticket.",
+      "observaciones": "Respectez toujours les places réservées, les entrées carrossables, les interdictions de stationnement et la signalisation de chaque rue."
+    }
+  }
+}

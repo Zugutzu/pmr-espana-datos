@@ -1,0 +1,18 @@
+{
+  "versionTraducciones": 2,
+  "idioma": "en",
+  "fechaActualizacion": "2026-07-23",
+  "municipiosTraducidos": 1,
+  "municipios": {
+    "18017": {
+      "tiposZona": [
+        "Blue zone",
+        "Orange zone"
+      ],
+      "limiteTiempo": "No time limit.",
+      "horarioRegulado": "City centre: Monday to Saturday, from 09:00 to 14:00, throughout the year. Seafront promenades: for 10 days during Easter, from the Friday before Palm Sunday to Easter Sunday, and from 1 July to 31 August, every day from 11:00 to 15:00 and from 19:00 to 22:00.",
+      "condicionesPmr": "You may park free of charge and without a time limit in the regulated parking zone. You only need to display the disabled parking card clearly. You do not need to obtain a ticket.",
+      "observaciones": "Always respect reserved bays, driveways, parking prohibitions and the signs on each street."
+    }
+  }
+}
