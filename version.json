@@ -1,13 +1,13 @@
 {
-  "versionDatos": 2,
-  "fechaActualizacion": "2026-07-22",
+  "versionDatos": 3,
+  "fechaActualizacion": "2026-07-24",
   "municipiosTotales": 8132,
-  "municipiosRevisados": 228,
+  "municipiosRevisados": 264,
   "archivo": "municipios.json",
-  "versionTraduccionesEn": 3,
-  "municipiosTraducidosEn": 228,
+  "versionTraduccionesEn": 4,
+  "municipiosTraducidosEn": 264,
   "archivoTraduccionesEn": "traducciones_en.json",
-  "versionTraduccionesFr": 3,
-  "municipiosTraducidosFr": 228,
+  "versionTraduccionesFr": 4,
+  "municipiosTraducidosFr": 264,
   "archivoTraduccionesFr": "traducciones_fr.json"
 }

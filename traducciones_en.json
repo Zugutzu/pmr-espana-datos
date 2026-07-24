@@ -1,8 +1,8 @@
 {
-  "versionTraducciones": 3,
+  "versionTraducciones": 4,
   "idioma": "en",
-  "fechaActualizacion": "2026-07-23",
-  "municipiosTraducidos": 228,
+  "fechaActualizacion": "2026-07-24",
+  "municipiosTraducidos": 264,
   "municipios": {
     "01059": {
       "tiposZona": [
@@ -2026,6 +2026,318 @@
       "horarioRegulado": "",
       "condicionesPmr": "Regulated parking zone: no active service has been confirmed.\nUnconfirmed information:\n- Current existence of a regulated parking zone.\n- Specific conditions for disabled parking card holders.\nBefore parking: check the signs on the street.\nAdditional context: General context: At present, it cannot be confirmed whether Melilla has a regulated parking zone. This does not mean that none exists; the available official information is not sufficiently clear.",
       "observaciones": "General context: At present, it cannot be confirmed whether Melilla has a regulated parking zone. This does not mean that none exists; the available official information is not sufficiently clear.\nNotice: unconfirmed information is shown separately in the “Disabled parking card conditions” section."
+    },
+    "15054": {
+      "tiposZona": [
+        "Blue zone"
+      ],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders has been confirmed. General reference: general maximum stay of 1 hour; the arrival time must be displayed",
+      "horarioRegulado": "Monday to Friday, from 08:00 to 15:00.",
+      "condicionesPmr": "Use with a disabled parking card: not confirmed.\nUnconfirmed information:\n- Payment.\n- Ticket.\n- Prior registration.\n- Specific maximum stay for disabled parking card holders.\nGeneral reference: general maximum stay of 1 hour; the arrival time must be displayed\nBefore parking: check the signs and the parking service instructions.",
+      "observaciones": "General context: The council introduced a free-turnover blue zone near the town hall, health centre and library, controlled by displaying the arrival time.\nNotice: sufficiently clear rules for disabled parking card holders in ordinary regulated spaces have not been located."
+    },
+    "08180": {
+      "tiposZona": [
+        "Blue zone"
+      ],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders has been confirmed. General reference: general maximum stay of 60 minutes",
+      "horarioRegulado": "Monday to Friday from 09:00 to 13:30 and from 16:30 to 20:00; Saturdays from 09:00 to 14:00. No service on Sundays, public holidays or during August.",
+      "condicionesPmr": "Use with a disabled parking card: not confirmed.\nUnconfirmed information:\n- Payment.\n- Ticket.\n- Prior registration.\n- Specific maximum stay for disabled parking card holders.\nGeneral reference: general maximum stay of 60 minutes\nBefore parking: check the signs and the parking service instructions.",
+      "observaciones": "General context: Ripollet has a free-turnover blue zone; drivers must display the arrival time using a parking disc, clock or note.\nNotice: sufficiently clear rules for disabled parking card holders in ordinary regulated spaces have not been located."
+    },
+    "03121": {
+      "tiposZona": [],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders has been confirmed.",
+      "horarioRegulado": "No confirmed regulated parking hours are available.",
+      "condicionesPmr": "Regulated parking zone: an active service has not been confirmed.\nUnconfirmed information:\n- Whether a regulated parking zone is currently operating.\n- Specific conditions for disabled parking card holders.\nBefore parking: check the street signs.",
+      "observaciones": "No regulated parking zone has been confirmed in Santa Pola. This does not mean that none exists: a clear and current official source is still needed. La fuente municipal consultada describe aparcamientos inteligentes, pero no confirma una zona ORA o azul ordinaria activa ni sus condiciones PMR."
+    },
+    "41039": {
+      "tiposZona": [],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders has been confirmed.",
+      "horarioRegulado": "No confirmed regulated parking hours are available.",
+      "condicionesPmr": "Regulated parking zone: an active service has not been confirmed.\nUnconfirmed information:\n- Whether a regulated parking zone is currently operating.\n- Specific conditions for disabled parking card holders.\nBefore parking: check the street signs.",
+      "observaciones": "No regulated parking zone has been confirmed in Écija. This does not mean that none exists: a clear and current official source is still needed. La revisión del portal municipal no ha permitido confirmar un servicio ordinario activo de zona azul u ORA."
+    },
+    "17114": {
+      "tiposZona": [
+        "Blue zone",
+        "Green zone"
+      ],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders has been confirmed. General reference: the general time limit and conditions depend on the zone and local signs",
+      "horarioRegulado": "No specific schedule for disabled parking card holders has been confirmed.",
+      "condicionesPmr": "Use with a disabled parking card: not confirmed.\nUnconfirmed information:\n- Payment.\n- Ticket.\n- Prior registration.\n- Specific maximum stay for disabled parking card holders.\nGeneral reference: the general time limit and conditions depend on the zone and local signs\nBefore parking: check the signs and the parking service instructions.",
+      "observaciones": "General context: Municipal information confirms regulated parking and procedures linked to blue and green zones.\nNotice: sufficiently clear rules for disabled parking card holders in ordinary regulated spaces have not been located."
+    },
+    "20067": {
+      "tiposZona": [
+        "Blue sector",
+        "Green sector"
+      ],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders has been confirmed. General reference: blue sector: general maximum of 90 minutes; green sector: general maximum of 4 hours",
+      "horarioRegulado": "Working days: Monday to Friday from 09:30 to 13:30 and from 16:00 to 20:00; Saturdays from 09:30 to 13:30.",
+      "condicionesPmr": "Use with a disabled parking card: not confirmed.\nUnconfirmed information:\n- Payment.\n- Ticket.\n- Prior registration.\n- Specific maximum stay for disabled parking card holders.\nGeneral reference: blue sector: general maximum of 90 minutes; green sector: general maximum of 4 hours\nBefore parking: check the signs and the parking service instructions.",
+      "observaciones": "General context: The municipal traffic ordinance regulates OTA parking with blue and green sectors and requires a visible ticket.\nNotice: sufficiently clear rules for disabled parking card holders in ordinary regulated spaces have not been located."
+    },
+    "08194": {
+      "tiposZona": [
+        "Blue zone",
+        "Residents’ zone"
+      ],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders in ordinary blue spaces has been confirmed.",
+      "horarioRegulado": "The schedule depends on the regulated sector and local signs.",
+      "condicionesPmr": "Use with a disabled parking card: permitted.\nMunicipal information states that the card may be used in blue zones and in spaces reserved for disabled people.\nUnconfirmed information:\n- Free parking.\n- Ticket.\n- Prior registration.\n- Specific maximum stay.\nBefore parking: check the signs and display the card clearly.",
+      "observaciones": "The municipality has blue regulated parking and resident-related sectors. The municipal website expressly allows the disabled parking card in blue zones, but does not specify payment, ticket or maximum stay."
+    },
+    "35006": {
+      "tiposZona": [
+        "Blue zone"
+      ],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders has been confirmed. General reference: check the signs in each street section",
+      "horarioRegulado": "No specific schedule for disabled parking card holders has been confirmed.",
+      "condicionesPmr": "Use with a disabled parking card: not confirmed.\nUnconfirmed information:\n- Payment.\n- Ticket.\n- Prior registration.\n- Specific maximum stay for disabled parking card holders.\nGeneral reference: check the signs in each street section\nBefore parking: check the signs and the parking service instructions.",
+      "observaciones": "General context: The council has confirmed the continuation of the blue zone as a turnover system in the town centre.\nNotice: sufficiently clear rules for disabled parking card holders in ordinary regulated spaces have not been located."
+    },
+    "28130": {
+      "tiposZona": [],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders has been confirmed.",
+      "horarioRegulado": "No confirmed regulated parking hours are available.",
+      "condicionesPmr": "Regulated parking zone: an active service has not been confirmed.\nUnconfirmed information:\n- Whether a regulated parking zone is currently operating.\n- Specific conditions for disabled parking card holders.\nBefore parking: check the street signs.",
+      "observaciones": "No regulated parking zone has been confirmed in San Fernando de Henares. This does not mean that none exists: a clear and current official source is still needed. La fuente confirma trámites para tarjeta y plazas reservadas PMR, pero no una zona azul u ORA ordinaria activa."
+    },
+    "31232": {
+      "tiposZona": [
+        "Blue zone",
+        "Green zone"
+      ],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders has been confirmed. General reference: check the parking meter and signs; no specific PMR maximum has been confirmed",
+      "horarioRegulado": "Monday to Friday from 09:00 to 13:30 and from 16:00 to 20:00; Saturdays from 09:00 to 13:30.",
+      "condicionesPmr": "Use with a disabled parking card: not confirmed.\nUnconfirmed information:\n- Payment.\n- Ticket.\n- Prior registration.\n- Specific maximum stay for disabled parking card holders.\nGeneral reference: check the parking meter and signs; no specific PMR maximum has been confirmed\nBefore parking: check the signs and the parking service instructions.",
+      "observaciones": "General context: The council confirms paid blue zones and green zones for residents.\nNotice: sufficiently clear rules for disabled parking card holders in ordinary regulated spaces have not been located."
+    },
+    "15058": {
+      "tiposZona": [
+        "ORA regulated zone",
+        "Express parking"
+      ],
+      "limiteTiempo": "Exclusion from the general limit requires a special municipal authorisation. No specific PMR maximum stay has been published.",
+      "horarioRegulado": "ORA zone: from 1 June to 15 September, every day including public holidays, from 12:00 to 20:00. Express spaces: check the signs.",
+      "condicionesPmr": "Use with a disabled parking card: permitted with conditions.\nVehicles owned by people with reduced mobility are excluded from the general ORA restriction when they have the special authorisation issued by the council.\nRecord details:\n- Payment: free with the special authorisation.\n- Prior registration or authorisation: required.\nUnconfirmed information:\n- Whether a ticket is required.\n- Specific PMR maximum stay.\nBefore parking: display the card and municipal authorisation and check the signs.",
+      "observaciones": "The ORA operates during the summer season and express parking is free with a general 30-minute limit. The PMR exception depends on a special municipal authorisation."
+    },
+    "41069": {
+      "tiposZona": [],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders has been confirmed.",
+      "horarioRegulado": "No confirmed regulated parking hours are available.",
+      "condicionesPmr": "Regulated parking zone: an active service has not been confirmed.\nUnconfirmed information:\n- Whether a regulated parking zone is currently operating.\n- Specific conditions for disabled parking card holders.\nBefore parking: check the street signs.",
+      "observaciones": "No regulated parking zone has been confirmed in Los Palacios y Villafranca. This does not mean that none exists: a clear and current official source is still needed. Las actuaciones municipales consultadas reorganizan estacionamientos, pero no confirman una zona azul u ORA ordinaria activa."
+    },
+    "33031": {
+      "tiposZona": [],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders has been confirmed.",
+      "horarioRegulado": "No confirmed regulated parking hours are available.",
+      "condicionesPmr": "Regulated parking zone: an active service has not been confirmed.\nUnconfirmed information:\n- Whether a regulated parking zone is currently operating.\n- Specific conditions for disabled parking card holders.\nBefore parking: check the street signs.",
+      "observaciones": "No regulated parking zone has been confirmed in Langreo. This does not mean that none exists: a clear and current official source is still needed. No se ha localizado una referencia municipal clara a una zona azul u ORA ordinaria activa."
+    },
+    "28015": {
+      "tiposZona": [],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders has been confirmed.",
+      "horarioRegulado": "No confirmed regulated parking hours are available.",
+      "condicionesPmr": "Regulated parking zone: an active service has not been confirmed.\nUnconfirmed information:\n- Whether a regulated parking zone is currently operating.\n- Specific conditions for disabled parking card holders.\nBefore parking: check the street signs.",
+      "observaciones": "No regulated parking zone has been confirmed in Arroyomolinos. This does not mean that none exists: a clear and current official source is still needed. La revisión del portal municipal no ha permitido confirmar un servicio de estacionamiento regulado ordinario."
+    },
+    "06044": {
+      "tiposZona": [
+        "Blue zone",
+        "Residents’ zone"
+      ],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders has been confirmed. General reference: check the parking meter, app and signs in each sector",
+      "horarioRegulado": "No specific schedule for disabled parking card holders has been confirmed.",
+      "condicionesPmr": "Use with a disabled parking card: not confirmed.\nUnconfirmed information:\n- Payment.\n- Ticket.\n- Prior registration.\n- Specific maximum stay for disabled parking card holders.\nGeneral reference: check the parking meter, app and signs in each sector\nBefore parking: check the signs and the parking service instructions.",
+      "observaciones": "General context: The council reactivated the blue zone in several streets in April 2025 and maintains resident-related arrangements.\nNotice: sufficiently clear rules for disabled parking card holders in ordinary regulated spaces have not been located."
+    },
+    "12032": {
+      "tiposZona": [],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders has been confirmed.",
+      "horarioRegulado": "No confirmed regulated parking hours are available.",
+      "condicionesPmr": "Regulated parking zone: an active service has not been confirmed.\nUnconfirmed information:\n- Whether a regulated parking zone is currently operating.\n- Specific conditions for disabled parking card holders.\nBefore parking: check the street signs.",
+      "observaciones": "No regulated parking zone has been confirmed in Borriana/Burriana. This does not mean that none exists: a clear and current official source is still needed. La fuente confirma la existencia y control de plazas reservadas PMR, pero no permite confirmar una zona azul u ORA ordinaria activa."
+    },
+    "36060": {
+      "tiposZona": [
+        "Blue zone"
+      ],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders has been confirmed. General reference: general maximum stay of 1 hour; the arrival time must be displayed with a parking disc",
+      "horarioRegulado": "No specific schedule for disabled parking card holders has been confirmed.",
+      "condicionesPmr": "Use with a disabled parking card: not confirmed.\nUnconfirmed information:\n- Payment.\n- Ticket.\n- Prior registration.\n- Specific maximum stay for disabled parking card holders.\nGeneral reference: general maximum stay of 1 hour; the arrival time must be displayed with a parking disc\nBefore parking: check the signs and the parking service instructions.",
+      "observaciones": "General context: Municipal tourism information confirms a free one-hour blue zone, using a parking disc to show the arrival time.\nNotice: sufficiently clear rules for disabled parking card holders in ordinary regulated spaces have not been located."
+    },
+    "38031": {
+      "tiposZona": [
+        "Blue zone"
+      ],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders has been confirmed. General reference: general maximum stay of 1 hour",
+      "horarioRegulado": "Monday to Friday from 09:30 to 13:30 and from 16:30 to 20:00; Saturdays from 10:00 to 13:30. No service on Sundays and public holidays.",
+      "condicionesPmr": "Use with a disabled parking card: not confirmed.\nUnconfirmed information:\n- Payment.\n- Ticket.\n- Prior registration.\n- Specific maximum stay for disabled parking card holders.\nGeneral reference: general maximum stay of 1 hour\nBefore parking: check the signs and the parking service instructions.",
+      "observaciones": "General context: The council confirms a free blue zone with automatic number-plate control.\nNotice: sufficiently clear rules for disabled parking card holders in ordinary regulated spaces have not been located."
+    },
+    "30003": {
+      "tiposZona": [
+        "Blue zone",
+        "Orange zone"
+      ],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders has been confirmed. General reference: check the signs and conditions for each zone",
+      "horarioRegulado": "No specific schedule for disabled parking card holders has been confirmed.",
+      "condicionesPmr": "Use with a disabled parking card: not confirmed.\nUnconfirmed information:\n- Payment.\n- Ticket.\n- Prior registration.\n- Specific maximum stay for disabled parking card holders.\nGeneral reference: check the signs and conditions for each zone\nBefore parking: check the signs and the parking service instructions.",
+      "observaciones": "General context: The municipal procedures catalogue includes authorisations linked to the blue zone, orange zone and disabled parking card.\nNotice: sufficiently clear rules for disabled parking card holders in ordinary regulated spaces have not been located."
+    },
+    "08125": {
+      "tiposZona": [
+        "Orange zone"
+      ],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders has been confirmed. General reference: usual general maximum of 1 hour; some signed sectors have a 30-minute maximum",
+      "horarioRegulado": "No specific schedule for disabled parking card holders has been confirmed.",
+      "condicionesPmr": "Use with a disabled parking card: not confirmed.\nUnconfirmed information:\n- Payment.\n- Ticket.\n- Prior registration.\n- Specific maximum stay for disabled parking card holders.\nGeneral reference: usual general maximum of 1 hour; some signed sectors have a 30-minute maximum\nBefore parking: check the signs and the parking service instructions.",
+      "observaciones": "General context: The council replaced paid blue parking with free orange turnover zones, requiring drivers to display the arrival time.\nNotice: sufficiently clear rules for disabled parking card holders in ordinary regulated spaces have not been located."
+    },
+    "03139": {
+      "tiposZona": [
+        "Blue zone",
+        "Orange zone"
+      ],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders has been confirmed. General reference: published general maximum of 118 minutes for visitors in blue and orange zones",
+      "horarioRegulado": "Blue zone: Monday to Friday from 10:00 to 14:00 and from 16:00 to 20:00; Saturdays from 10:00 to 14:00; free on Sundays and public holidays. Orange zone: from 15 June to 15 September, every day from 09:00 to 20:00.",
+      "condicionesPmr": "Use with a disabled parking card: not confirmed.\nUnconfirmed information:\n- Payment.\n- Ticket.\n- Prior registration.\n- Specific maximum stay for disabled parking card holders.\nGeneral reference: published general maximum of 118 minutes for visitors in blue and orange zones\nBefore parking: check the signs and the parking service instructions.",
+      "observaciones": "General context: The ORA service confirms blue and orange zones with payment and different schedules.\nNotice: sufficiently clear rules for disabled parking card holders in ordinary regulated spaces have not been located."
+    },
+    "13082": {
+      "tiposZona": [
+        "Blue zone"
+      ],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders has been confirmed. General reference: check the parking meter, Telpark app and signs",
+      "horarioRegulado": "No specific schedule for disabled parking card holders has been confirmed.",
+      "condicionesPmr": "Use with a disabled parking card: not confirmed.\nUnconfirmed information:\n- Payment.\n- Ticket.\n- Prior registration.\n- Specific maximum stay for disabled parking card holders.\nGeneral reference: check the parking meter, Telpark app and signs\nBefore parking: check the signs and the parking service instructions.",
+      "observaciones": "General context: The council confirms the blue-zone service, managed through Dornier/Telpark.\nNotice: sufficiently clear rules for disabled parking card holders in ordinary regulated spaces have not been located."
+    },
+    "43038": {
+      "tiposZona": [
+        "Blue zone"
+      ],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders has been confirmed. General reference: general maximum of 4 hours in the beach area and 2 hours in the town-centre area",
+      "horarioRegulado": "Monday to Friday from 10:00 to 13:00 and from 17:00 to 20:00; Saturdays from 10:00 to 13:00, except public holidays. Seasonal sector rules may apply.",
+      "condicionesPmr": "Use with a disabled parking card: not confirmed.\nUnconfirmed information:\n- Payment.\n- Ticket.\n- Prior registration.\n- Specific maximum stay for disabled parking card holders.\nGeneral reference: general maximum of 4 hours in the beach area and 2 hours in the town-centre area\nBefore parking: check the signs and the parking service instructions.",
+      "observaciones": "General context: The council publishes blue-zone rules for beach and town-centre sectors.\nNotice: sufficiently clear rules for disabled parking card holders in ordinary regulated spaces have not been located."
+    },
+    "46184": {
+      "tiposZona": [
+        "Blue zone"
+      ],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders has been confirmed. General reference: general maximum stay of 120 minutes",
+      "horarioRegulado": "Monday to Friday from 09:00 to 13:30 and from 16:30 to 20:00; Saturdays from 09:00 to 13:30. No service on Sundays and public holidays.",
+      "condicionesPmr": "Use with a disabled parking card: not confirmed.\nUnconfirmed information:\n- Payment.\n- Ticket.\n- Prior registration.\n- Specific maximum stay for disabled parking card holders.\nGeneral reference: general maximum stay of 120 minutes\nBefore parking: check the signs and the parking service instructions.",
+      "observaciones": "General context: The ORA service publishes schedules, charges and a general maximum stay.\nNotice: sufficiently clear rules for disabled parking card holders in ordinary regulated spaces have not been located."
+    },
+    "28061": {
+      "tiposZona": [
+        "Blue zone",
+        "Green zone"
+      ],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders has been confirmed. General reference: check the parking meter and signs; the maximum depends on the zone type",
+      "horarioRegulado": "Monday to Friday from 09:00 to 14:00 and from 16:00 to 21:00; Saturdays from 10:00 to 14:00. No service on Sundays and public holidays.",
+      "condicionesPmr": "Use with a disabled parking card: not confirmed.\nUnconfirmed information:\n- Payment.\n- Ticket.\n- Prior registration.\n- Specific maximum stay for disabled parking card holders.\nGeneral reference: check the parking meter and signs; the maximum depends on the zone type\nBefore parking: check the signs and the parking service instructions.",
+      "observaciones": "General context: The municipal Regulated Parking Service confirms blue and green zones requiring a ticket.\nNotice: sufficiently clear rules for disabled parking card holders in ordinary regulated spaces have not been located."
+    },
+    "09219": {
+      "tiposZona": [
+        "ORA regulated zone",
+        "Blue zone"
+      ],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders has been confirmed. General reference: check the signs and ordinance; no specific PMR maximum has been confirmed",
+      "horarioRegulado": "Monday to Friday from 09:30 to 14:00 and from 16:30 to 20:00; Saturdays from 09:30 to 14:00.",
+      "condicionesPmr": "Use with a disabled parking card: not confirmed.\nUnconfirmed information:\n- Payment.\n- Ticket.\n- Prior registration.\n- Specific maximum stay for disabled parking card holders.\nGeneral reference: check the signs and ordinance; no specific PMR maximum has been confirmed\nBefore parking: check the signs and the parking service instructions.",
+      "observaciones": "General context: The council maintains and expands the blue zone regulated by the ORA ordinance.\nNotice: sufficiently clear rules for disabled parking card holders in ordinary regulated spaces have not been located."
+    },
+    "30035": {
+      "tiposZona": [],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders has been confirmed.",
+      "horarioRegulado": "No confirmed regulated parking hours are available.",
+      "condicionesPmr": "Regulated parking zone: an active service has not been confirmed.\nUnconfirmed information:\n- Whether a regulated parking zone is currently operating.\n- Specific conditions for disabled parking card holders.\nBefore parking: check the street signs.",
+      "observaciones": "No regulated parking zone has been confirmed in San Javier. This does not mean that none exists: a clear and current official source is still needed. No se ha localizado una referencia municipal clara y actual que confirme una zona azul u ORA ordinaria activa."
+    },
+    "30043": {
+      "tiposZona": [
+        "Blue zone"
+      ],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders has been confirmed. General reference: check the signs and the current ordinance",
+      "horarioRegulado": "No specific schedule for disabled parking card holders has been confirmed.",
+      "condicionesPmr": "Use with a disabled parking card: not confirmed.\nUnconfirmed information:\n- Payment.\n- Ticket.\n- Prior registration.\n- Specific maximum stay for disabled parking card holders.\nGeneral reference: check the signs and the current ordinance\nBefore parking: check the signs and the parking service instructions.",
+      "observaciones": "General context: The council is processing and updating the blue-zone regulations, confirming the existence of the service.\nNotice: sufficiently clear rules for disabled parking card holders in ordinary regulated spaces have not been located."
+    },
+    "33037": {
+      "tiposZona": [
+        "Blue zone"
+      ],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders has been confirmed. General reference: general maximum of 2 hours; the vehicle must then move to another zone",
+      "horarioRegulado": "No specific schedule for disabled parking card holders has been confirmed.",
+      "condicionesPmr": "Use with a disabled parking card: not confirmed.\nUnconfirmed information:\n- Payment.\n- Ticket.\n- Prior registration.\n- Specific maximum stay for disabled parking card holders.\nGeneral reference: general maximum of 2 hours; the vehicle must then move to another zone\nBefore parking: check the signs and the parking service instructions.",
+      "observaciones": "General context: The council confirms a free blue zone requiring a ticket from a parking meter or app, with a general two-hour limit.\nNotice: sufficiently clear rules for disabled parking card holders in ordinary regulated spaces have not been located."
+    },
+    "07027": {
+      "tiposZona": [
+        "Blue zone"
+      ],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders has been confirmed. General reference: check the signs; a complete current general limit has not been located",
+      "horarioRegulado": "No specific schedule for disabled parking card holders has been confirmed.",
+      "condicionesPmr": "Use with a disabled parking card: not confirmed.\nUnconfirmed information:\n- Payment.\n- Ticket.\n- Prior registration.\n- Specific maximum stay for disabled parking card holders.\nGeneral reference: check the signs; a complete current general limit has not been located\nBefore parking: check the signs and the parking service instructions.",
+      "observaciones": "General context: A municipal notice confirms free blue-zone spaces, although the located source does not provide the full current rules.\nNotice: sufficiently clear rules for disabled parking card holders in ordinary regulated spaces have not been located."
+    },
+    "43155": {
+      "tiposZona": [
+        "Blue zone"
+      ],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders has been confirmed. General reference: the limit depends on the sector; some turnover car parks offer 2 hours and 30 minutes free",
+      "horarioRegulado": "No specific schedule for disabled parking card holders has been confirmed.",
+      "condicionesPmr": "Use with a disabled parking card: not confirmed.\nUnconfirmed information:\n- Payment.\n- Ticket.\n- Prior registration.\n- Specific maximum stay for disabled parking card holders.\nGeneral reference: the limit depends on the sector; some turnover car parks offer 2 hours and 30 minutes free\nBefore parking: check the signs and the parking service instructions.",
+      "observaciones": "General context: The council confirms an active blue zone and is updating its ordinance; some turnover car parks offer an initial free period.\nNotice: sufficiently clear rules for disabled parking card holders in ordinary regulated spaces have not been located."
+    },
+    "08217": {
+      "tiposZona": [
+        "Blue zone",
+        "Green zone",
+        "Park-and-ride zone"
+      ],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders has been confirmed. General reference: check the signs for each zone; the blue zone requires a ticket",
+      "horarioRegulado": "No specific schedule for disabled parking card holders has been confirmed.",
+      "condicionesPmr": "Use with a disabled parking card: not confirmed.\nUnconfirmed information:\n- Payment.\n- Ticket.\n- Prior registration.\n- Specific maximum stay for disabled parking card holders.\nGeneral reference: check the signs for each zone; the blue zone requires a ticket\nBefore parking: check the signs and the parking service instructions.",
+      "observaciones": "General context: The council confirms blue, green and park-and-ride zones with different rules.\nNotice: sufficiently clear rules for disabled parking card holders in ordinary regulated spaces have not been located."
+    },
+    "19046": {
+      "tiposZona": [],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders has been confirmed.",
+      "horarioRegulado": "No confirmed regulated parking hours are available.",
+      "condicionesPmr": "Regulated parking zone: an active service has not been confirmed.\nUnconfirmed information:\n- Whether a regulated parking zone is currently operating.\n- Specific conditions for disabled parking card holders.\nBefore parking: check the street signs.",
+      "observaciones": "No regulated parking zone has been confirmed in Azuqueca de Henares. This does not mean that none exists: a clear and current official source is still needed. La revisión del portal municipal y su normativa no ha permitido confirmar una zona azul u ORA ordinaria activa."
+    },
+    "23005": {
+      "tiposZona": [],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders has been confirmed.",
+      "horarioRegulado": "No confirmed regulated parking hours are available.",
+      "condicionesPmr": "Regulated parking zone: an active service has not been confirmed.\nUnconfirmed information:\n- Whether a regulated parking zone is currently operating.\n- Specific conditions for disabled parking card holders.\nBefore parking: check the street signs.",
+      "observaciones": "No regulated parking zone has been confirmed in Andújar. This does not mean that none exists: a clear and current official source is still needed. No se ha localizado una fuente municipal clara y actual que confirme una zona azul u ORA ordinaria activa."
+    },
+    "30019": {
+      "tiposZona": [],
+      "limiteTiempo": "No specific maximum stay for disabled parking card holders has been confirmed.",
+      "horarioRegulado": "No confirmed regulated parking hours are available.",
+      "condicionesPmr": "Regulated parking zone: an active service has not been confirmed.\nUnconfirmed information:\n- Whether a regulated parking zone is currently operating.\n- Specific conditions for disabled parking card holders.\nBefore parking: check the street signs.",
+      "observaciones": "No regulated parking zone has been confirmed in Cieza. This does not mean that none exists: a clear and current official source is still needed. La referencia municipal localizada trataba la zona azul como una propuesta; no se ha confirmado su implantación actual."
+    },
+    "30026": {
+      "tiposZona": [],
+      "limiteTiempo": "Municipal reserved PMR spaces are generally defined without a time limit. The limit in an ordinary regulated space has not been confirmed.",
+      "horarioRegulado": "No confirmed regulated parking hours are available.",
+      "condicionesPmr": "Ordinary regulated parking zone: an active service has not been confirmed.\nConfirmed information:\n- Signed spaces reserved for disabled parking card holders are generally permanent and have no time limit.\nUnconfirmed information:\n- Use of ordinary spaces in a possible regulated zone.\n- Payment.\n- Ticket.\n- Prior registration.\nBefore parking: display the disabled parking card and check the space signs.",
+      "observaciones": "No regulated parking zone has been confirmed in Mazarrón. This does not mean that none exists: a clear and current official source is still needed. La ordenanza confirma plazas reservadas PMR sin limitación horaria y prevé su ubicación en zonas reguladas, pero no identifica un servicio ordinario activo ni sus reglas actuales."
     }
   }
 }
