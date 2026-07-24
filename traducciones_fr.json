@@ -1,8 +1,8 @@
 {
-  "versionTraducciones": 4,
+  "versionTraducciones": 5,
   "idioma": "fr",
   "fechaActualizacion": "2026-07-24",
-  "municipiosTraducidos": 264,
+  "municipiosTraducidos": 300,
   "municipios": {
     "01059": {
       "tiposZona": [
@@ -54,6 +54,13 @@
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nDétails de la fiche :\n- Paiement : non confirmé.\n- Ticket : non confirmé.\n- Inscription préalable : non confirmée.\n- Durée maximale : Cela dépend de la couleur de la zone et du statut de résident. Consultez la signalisation.\nPrécisions : Contexte général : Benidorm dispose de zones bleue, verte et orange. Il reste à confirmer si la carte de stationnement PMR permet de stationner gratuitement, sans ticket ou plus longtemps.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : Benidorm dispose de zones bleue, verte et orange. Il reste à confirmer si la carte de stationnement PMR permet de stationner gratuitement, sans ticket ou plus longtemps.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
     },
+    "03050": {
+      "tiposZona": [],
+      "limiteTiempo": "",
+      "horarioRegulado": "",
+      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.",
+      "observaciones": "Contexte général : aucune source municipale suffisamment claire et actuelle n’a été trouvée pour confirmer un service ordinaire de stationnement réglementé actif à Campello, el. Cela ne signifie pas qu’il n’en existe pas.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
+    },
     "03063": {
       "tiposZona": [
         "Zone bleue"
@@ -88,6 +95,22 @@
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nDétails de la fiche :\n- Paiement : non confirmé.\n- Ticket : non confirmé.\n- Inscription préalable : non confirmée.\n- Durée maximale : non confirmée.\nPrécisions : Contexte général : Orihuela dispose d’une zone bleue / ORA. Il reste à confirmer si la carte de stationnement PMR permet de stationner gratuitement, sans ticket ou plus longtemps.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : Orihuela dispose d’une zone bleue / ORA. Il reste à confirmer si la carte de stationnement PMR permet de stationner gratuitement, sans ticket ou plus longtemps.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
     },
+    "03104": {
+      "tiposZona": [
+        "Stationnement gratuit à durée limitée"
+      ],
+      "limiteTiempo": "Durée maximale générale : 30 minutes. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.",
+      "horarioRegulado": "Pendant les heures d’ouverture des commerces dans les rues concernées. Vérifiez la signalisation.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket ou disque horaire.\n- Inscription préalable.\n- Exemption de la durée maximale.\nRéférence générale : Durée maximale générale : 30 minutes. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : Petrer utilise des capteurs pour contrôler un stationnement gratuit de courte durée dans le centre ; aucun ticket papier général n’est requis.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte de stationnement PMR dans les places ordinaires réglementées n’a été trouvée."
+    },
+    "03121": {
+      "tiposZona": [],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte de stationnement PMR n’a été confirmée.",
+      "horarioRegulado": "Aucun horaire confirmé de stationnement réglementé n’est disponible.",
+      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- L’existence actuelle d’une zone de stationnement réglementé.\n- Les conditions particulières applicables aux titulaires d’une carte PMR.\nAvant de stationner : vérifiez la signalisation de la rue.",
+      "observaciones": "Aucune zone de stationnement réglementé n’a été confirmée à Santa Pola. Cela ne signifie pas qu’il n’en existe pas : une source officielle claire et actuelle reste nécessaire. La source municipale consultée décrit des parkings intelligents, mais ne confirme pas l’existence d’une zone ORA ou bleue ordinaire active ni ses conditions applicables aux titulaires d’une carte de stationnement PMR."
+    },
     "03122": {
       "tiposZona": [],
       "limiteTiempo": "",
@@ -104,6 +127,25 @@
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nDétails de la fiche :\n- Paiement : non confirmé.\n- Ticket : non confirmé.\n- Inscription préalable : non confirmée.\n- Durée maximale : Pendant la période de réglementation estivale, le stationnement n’est autorisé que la nuit, de 23 h à 8 h.\nPrécisions : Contexte général : le stationnement est interdit sur le tronçon concerné en dehors de ces horaires. Vérifiez toujours la signalisation, car la mesure varie selon la saison.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : le stationnement est interdit sur le tronçon concerné en dehors de ces horaires. Vérifiez toujours la signalisation, car la mesure varie selon la saison.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
     },
+    "03139": {
+      "tiposZona": [
+        "Zone bleue",
+        "Zone orange"
+      ],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : durée générale maximale publiée de 118 minutes pour les visiteurs dans les zones bleue et orange",
+      "horarioRegulado": "Zone bleue : du lundi au vendredi de 10 h à 14 h et de 16 h à 20 h ; le samedi de 10 h à 14 h ; libre le dimanche et les jours fériés. Zone orange : du 15 juin au 15 septembre, tous les jours de 9 h à 20 h.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : durée générale maximale publiée de 118 minutes pour les visiteurs dans les zones bleue et orange\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : Le service ORA confirme des zones bleue et orange payantes avec des horaires différents.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
+    },
+    "03140": {
+      "tiposZona": [
+        "Zone bleue"
+      ],
+      "limiteTiempo": "La durée maximale générale dépend du secteur et du type de zone. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.",
+      "horarioRegulado": "Zone A : du lundi au vendredi de 9 h à 13 h 30 et de 16 h à 20 h ; le samedi de 9 h à 14 h. Zone B : du lundi au vendredi de 8 h à 14 h. Vérifiez la signalisation en vigueur.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket ou disque horaire.\n- Inscription préalable.\n- Exemption de la durée maximale.\nRéférence générale : La durée maximale générale dépend du secteur et du type de zone. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : Villena dispose d’un stationnement réglementé en zone bleue et permet le paiement au moyen d’une application mobile.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte de stationnement PMR dans les places ordinaires réglementées n’a été trouvée."
+    },
     "04013": {
       "tiposZona": [
         "Zone bleue",
@@ -113,6 +155,13 @@
       "horarioRegulado": "Du lundi au vendredi de 9 h à 14 h et de 16 h 30 à 20 h 30 ; le samedi de 9 h à 14 h.",
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : autorisée sous conditions.\nDétails de la fiche :\n- Paiement : gratuit.\n- Ticket : non requis.\n- Inscription préalable : requise.\n- Durée maximale : Sans limite de durée.\nPrécisions : Contexte général : Almería autorise le stationnement gratuit sans limite de durée, mais une autorisation municipale doit d’abord être obtenue et affichée avec la carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : Almería autorise le stationnement gratuit sans limite de durée, mais une autorisation municipale doit d’abord être obtenue et affichée avec la carte de stationnement PMR."
+    },
+    "04066": {
+      "tiposZona": [],
+      "limiteTiempo": "",
+      "horarioRegulado": "",
+      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.",
+      "observaciones": "Contexte général : aucune source municipale suffisamment claire et actuelle n’a été trouvée pour confirmer un service ordinaire de stationnement réglementé actif à Níjar. Cela ne signifie pas qu’il n’en existe pas.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
     },
     "04079": {
       "tiposZona": [],
@@ -137,12 +186,29 @@
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nDétails de la fiche :\n- Paiement : non confirmé.\n- Ticket : non confirmé.\n- Inscription préalable : non confirmée.\n- Durée maximale : Aucune durée maximale spécifique vérifiée n’est disponible pour les véhicules affichant une carte de stationnement PMR.\nPrécisions : Contexte général : Ávila dispose d’une zone ORA. Il reste à confirmer si la carte de stationnement PMR permet de stationner gratuitement, sans ticket ou plus longtemps.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : Ávila dispose d’une zone ORA. Il reste à confirmer si la carte de stationnement PMR permet de stationner gratuitement, sans ticket ou plus longtemps.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
     },
+    "06011": {
+      "tiposZona": [],
+      "limiteTiempo": "",
+      "horarioRegulado": "",
+      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.",
+      "observaciones": "Contexte général : aucune source municipale suffisamment claire et actuelle n’a été trouvée pour confirmer un service ordinaire de stationnement réglementé actif à Almendralejo. Cela ne signifie pas qu’il n’en existe pas.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
+    },
     "06015": {
       "tiposZona": [],
       "limiteTiempo": "",
       "horarioRegulado": "",
       "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.\nContexte complémentaire : Contexte général : il n’est actuellement pas possible de confirmer si Badajoz dispose d’une zone réglementée. Cela ne signifie pas qu’il n’en existe pas ; les informations officielles disponibles ne sont pas suffisamment claires.",
       "observaciones": "Contexte général : il n’est actuellement pas possible de confirmer si Badajoz dispose d’une zone réglementée. Cela ne signifie pas qu’il n’en existe pas ; les informations officielles disponibles ne sont pas suffisamment claires.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
+    },
+    "06044": {
+      "tiposZona": [
+        "Zone bleue",
+        "Zone résidents"
+      ],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : consultez l’horodateur, l’application et la signalisation de chaque secteur",
+      "horarioRegulado": "Aucun horaire particulier pour les titulaires d’une carte PMR n’a été confirmé.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : consultez l’horodateur, l’application et la signalisation de chaque secteur\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : La mairie a réactivé la zone bleue dans plusieurs rues en avril 2025 et maintient des dispositifs liés aux résidents.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
     },
     "06083": {
       "tiposZona": [
@@ -162,6 +228,16 @@
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nDétails de la fiche :\n- Paiement : non confirmé.\n- Ticket : non confirmé.\n- Inscription préalable : non confirmée.\n- Durée maximale : Le site municipal n’indique pas la durée maximale ni l’existence éventuelle d’une exemption spécifique pour les titulaires d’une carte de stationnement PMR.\nPrécisions : Contexte général : Calvià dispose d’un stationnement ORA payant, réglable à l’horodateur, en ligne ou avec Mowiz. Les conditions précises applicables aux titulaires d’une carte de stationnement PMR ne sont pas publiées clairement.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : Calvià dispose d’un stationnement ORA payant, réglable à l’horodateur, en ligne ou avec Mowiz. Les conditions précises applicables aux titulaires d’une carte de stationnement PMR ne sont pas publiées clairement.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
     },
+    "07015": {
+      "tiposZona": [
+        "Zone bleue",
+        "Zone verte"
+      ],
+      "limiteTiempo": "La durée générale dépend du secteur et de la saison. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.",
+      "horarioRegulado": "Selon la zone, la saison et la signalisation en vigueur.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket ou disque horaire.\n- Inscription préalable.\n- Exemption de la durée maximale.\nRéférence générale : La durée générale dépend du secteur et de la saison. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : Ciutadella dispose de zones de stationnement réglementé bleues et vertes. Les informations accessibles ne permettent pas de confirmer les règles applicables aux places ordinaires pour les titulaires d’une carte PMR.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte de stationnement PMR dans les places ordinaires réglementées n’a été trouvée."
+    },
     "07026": {
       "tiposZona": [
         "Zone bleue"
@@ -170,6 +246,15 @@
       "horarioRegulado": "Référence municipale publiée : en hiver, du lundi au vendredi de 9 h à 14 h et de 17 h à 20 h ; le samedi de 9 h à 14 h. En été, du lundi au samedi de 9 h à 14 h et de 17 h à 22 h. Vérifiez la signalisation actuellement en place.",
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nDétails de la fiche :\n- Paiement : non confirmé.\n- Ticket : non confirmé.\n- Inscription préalable : non confirmée.\n- Durée maximale : La durée maximale générale publiée est de 2 heures. Aucune exemption actualisée pour les titulaires d’une carte de stationnement PMR n’a été trouvée.\nPrécisions : Contexte général : la zone bleue est confirmée. Les derniers horaires et tarifs détaillés trouvés sur le site municipal sont anciens et doivent donc être vérifiés sur place.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : la zone bleue est confirmée. Les derniers horaires et tarifs détaillés trouvés sur le site municipal sont anciens et doivent donc être vérifiés sur place.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
+    },
+    "07027": {
+      "tiposZona": [
+        "Zone bleue"
+      ],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : consultez la signalisation ; aucune durée générale actuelle complète n’a été trouvée",
+      "horarioRegulado": "Aucun horaire particulier pour les titulaires d’une carte PMR n’a été confirmé.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : consultez la signalisation ; aucune durée générale actuelle complète n’a été trouvée\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : Une communication municipale confirme des places gratuites en zone bleue, mais la source trouvée ne détaille pas l’ensemble des règles actuelles.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
     },
     "07031": {
       "tiposZona": [
@@ -339,6 +424,15 @@
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : autorisée sous conditions.\nDétails de la fiche :\n- Paiement : gratuit.\n- Ticket : non requis.\n- Inscription préalable : non requise.\n- Durée maximale : Respectez la durée indiquée par la signalisation. Aucune exemption municipale claire de la durée maximale n’a été trouvée.\nPrécisions : Contexte général : Mollet autorise les titulaires d’une carte de stationnement PMR à utiliser gratuitement la zone bleue. Les informations municipales ne précisent pas que la durée maximale puisse être dépassée.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : Mollet autorise les titulaires d’une carte de stationnement PMR à utiliser gratuitement la zone bleue. Les informations municipales ne précisent pas que la durée maximale puisse être dépassée.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
     },
+    "08125": {
+      "tiposZona": [
+        "Zone orange"
+      ],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : durée générale habituelle d’une heure ; certains secteurs signalés sont limités à 30 minutes",
+      "horarioRegulado": "Aucun horaire particulier pour les titulaires d’une carte PMR n’a été confirmé.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : durée générale habituelle d’une heure ; certains secteurs signalés sont limités à 30 minutes\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : La mairie a remplacé la zone bleue payante par des zones orange gratuites de rotation, avec obligation d’indiquer l’heure d’arrivée.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
+    },
     "08169": {
       "tiposZona": [
         "Zone bleue",
@@ -348,6 +442,15 @@
       "horarioRegulado": "Les horaires varient selon la zone. Consultez la signalisation.",
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : autorisée sous conditions.\nDétails de la fiche :\n- Paiement : gratuit.\n- Ticket : non requis.\n- Inscription préalable : non requise.\n- Durée maximale : Respectez la durée de chaque zone. Aucune exemption municipale claire de la durée maximale n’a été trouvée.\nPrécisions : Contexte général : El Prat dispose de zones bleue et verte. La gratuité et l’absence d’obligation de justificatif reposent sur la réglementation catalane ; aucune exemption municipale claire de la durée maximale n’est encore établie.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : El Prat dispose de zones bleue et verte. La gratuité et l’absence d’obligation de justificatif reposent sur la réglementation catalane ; aucune exemption municipale claire de la durée maximale n’est encore établie.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
+    },
+    "08180": {
+      "tiposZona": [
+        "Zone bleue"
+      ],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : durée générale maximale de 60 minutes",
+      "horarioRegulado": "Du lundi au vendredi de 9 h à 13 h 30 et de 16 h 30 à 20 h ; le samedi de 9 h à 14 h. Aucun service le dimanche, les jours fériés et en août.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : durée générale maximale de 60 minutes\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : Ripollet dispose d’une zone bleue gratuite de rotation ; l’heure d’arrivée doit être indiquée au moyen d’un disque, d’une horloge ou d’un papier.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
     },
     "08184": {
       "tiposZona": [
@@ -366,6 +469,16 @@
       "horarioRegulado": "Eix Macià : du lundi au vendredi de 9 h à 13 h 30 et de 16 h à 20 h ; le samedi de 10 h à 14 h et de 16 h à 20 h. Autres secteurs : du lundi au vendredi de 9 h à 13 h 30 et de 16 h à 20 h ; le samedi de 10 h à 14 h. Des variations existent selon les secteurs.",
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : autorisée.\nDétails de la fiche :\n- Paiement : gratuit.\n- Ticket : non requis.\n- Inscription préalable : non requise.\n- Durée maximale : La durée maximale générale est de 90 minutes dans la plupart des secteurs et de 120 minutes à Eix Macià. Aucune exemption locale de la durée maximale n’a été trouvée pour les titulaires d’une carte de stationnement PMR.\nPrécisions : Contexte général : Sabadell dispose d’une zone bleue. Avec une carte de stationnement PMR, vous pouvez stationner gratuitement et sans ticket. La durée maximale générale est de 90 minutes, ou de 120 minutes à Eix Macià. Il n’est pas établi si la carte permet de la dépasser.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : Sabadell dispose d’une zone bleue. Avec une carte de stationnement PMR, vous pouvez stationner gratuitement et sans ticket. La durée maximale générale est de 90 minutes, ou de 120 minutes à Eix Macià. Il n’est pas établi si la carte permet de la dépasser.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
+    },
+    "08194": {
+      "tiposZona": [
+        "Zone bleue",
+        "Zone résidents"
+      ],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR dans les places bleues ordinaires n’a été confirmée.",
+      "horarioRegulado": "L’horaire dépend du secteur réglementé et de la signalisation locale.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : autorisée.\nLes informations municipales indiquent que la carte peut être utilisée dans les zones bleues et dans les places réservées aux personnes handicapées.\nInformations non confirmées :\n- Gratuité.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique.\nAvant de stationner : vérifiez la signalisation et affichez clairement la carte.",
+      "observaciones": "La commune dispose d’un stationnement réglementé bleu et de secteurs liés aux résidents. Le site municipal autorise expressément la carte PMR dans les zones bleues, sans préciser le paiement, le ticket ni la durée maximale."
     },
     "08200": {
       "tiposZona": [
@@ -396,6 +509,24 @@
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : autorisée.\nDétails de la fiche :\n- Paiement : gratuit.\n- Ticket : non requis.\n- Inscription préalable : non requise.\n- Durée maximale : Respectez la durée indiquée par la signalisation, sauf règle municipale contraire.\nPrécisions : Contexte général : Sant Feliu de Llobregat dispose d’un stationnement réglementé. Vérifiez la couleur, les horaires et la signalisation de l’emplacement. La page consultée ne précise pas encore les couleurs, les rues ni les horaires.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : Sant Feliu de Llobregat dispose d’un stationnement réglementé. Vérifiez la couleur, les horaires et la signalisation de l’emplacement. La page consultée ne précise pas encore les couleurs, les rues ni les horaires."
     },
+    "08217": {
+      "tiposZona": [
+        "Zone bleue",
+        "Zone verte",
+        "Zone P+R"
+      ],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : consultez la signalisation de chaque zone ; la zone bleue exige un ticket",
+      "horarioRegulado": "Aucun horaire particulier pour les titulaires d’une carte PMR n’a été confirmé.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : consultez la signalisation de chaque zone ; la zone bleue exige un ticket\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : La mairie confirme des zones bleue, verte et P+R avec des règles différentes.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
+    },
+    "08231": {
+      "tiposZona": [],
+      "limiteTiempo": "",
+      "horarioRegulado": "",
+      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.",
+      "observaciones": "Contexte général : aucune source municipale suffisamment claire et actuelle n’a été trouvée pour confirmer un service ordinaire de stationnement réglementé actif à Sant Pere de Ribes. Cela ne signifie pas qu’il n’en existe pas.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
+    },
     "08245": {
       "tiposZona": [
         "Zone bleue"
@@ -405,6 +536,13 @@
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : autorisée.\nDétails de la fiche :\n- Paiement : gratuit.\n- Ticket : non requis.\n- Inscription préalable : non requise.\n- Durée maximale : La durée maximale générale est de 1 heure 30. Aucune exemption locale de la durée maximale n’a été trouvée pour les titulaires d’une carte de stationnement PMR.\nPrécisions : Contexte général : Santa Coloma de Gramenet dispose d’une zone bleue. Avec une carte de stationnement PMR, vous pouvez stationner gratuitement et sans ticket. La durée maximale générale est de 1 heure 30. Il n’est pas établi si la carte permet de la dépasser.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : Santa Coloma de Gramenet dispose d’une zone bleue. Avec une carte de stationnement PMR, vous pouvez stationner gratuitement et sans ticket. La durée maximale générale est de 1 heure 30. Il n’est pas établi si la carte permet de la dépasser.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
     },
+    "08252": {
+      "tiposZona": [],
+      "limiteTiempo": "",
+      "horarioRegulado": "",
+      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.",
+      "observaciones": "Contexte général : aucune source municipale suffisamment claire et actuelle n’a été trouvée pour confirmer un service ordinaire de stationnement réglementé actif à Barberà del Vallès. Cela ne signifie pas qu’il n’en existe pas.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
+    },
     "08266": {
       "tiposZona": [
         "Zone orange gratuite avec contrôle de durée"
@@ -413,6 +551,16 @@
       "horarioRegulado": "Consultez la signalisation de chaque tronçon de la zone orange.",
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : autorisée.\nDétails de la fiche :\n- Paiement : gratuit.\n- Ticket : non requis.\n- Inscription préalable : non requise.\n- Durée maximale : Sans limite de durée pour les véhicules affichant une carte de stationnement PMR.\nPrécisions : Contexte général : la zone orange est gratuite et vise à favoriser la rotation. Le site municipal publie une exemption complète pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : la zone orange est gratuite et vise à favoriser la rotation. Le site municipal publie une exemption complète pour les titulaires d’une carte de stationnement PMR."
+    },
+    "08270": {
+      "tiposZona": [
+        "Zone bleue",
+        "Zone verte"
+      ],
+      "limiteTiempo": "La durée générale dépend de la zone et de la saison. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.",
+      "horarioRegulado": "Les horaires varient selon le secteur et la saison ; consultez la signalisation et les informations municipales.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket ou disque horaire.\n- Inscription préalable.\n- Exemption de la durée maximale.\nRéférence générale : La durée générale dépend de la zone et de la saison. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : Sitges dispose de zones bleue et verte et publie les conditions de stationnement par secteur.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte de stationnement PMR dans les places ordinaires réglementées n’a été trouvée."
     },
     "08279": {
       "tiposZona": [
@@ -463,6 +611,15 @@
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : autorisée.\nDétails de la fiche :\n- Paiement : gratuit.\n- Ticket : non requis.\n- Inscription préalable : non requise.\n- Durée maximale : Respectez la durée indiquée par la signalisation. Aucune exemption générale de la durée maximale n’a été confirmée.\nPrécisions : Contexte général : Vilanova dispose de nombreuses zones bleues et vertes, avec des horaires saisonniers sur le littoral. La carte de stationnement PMR permet de stationner gratuitement dans la zone bleue.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : Vilanova dispose de nombreuses zones bleues et vertes, avec des horaires saisonniers sur le littoral. La carte de stationnement PMR permet de stationner gratuitement dans la zone bleue.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
     },
+    "09018": {
+      "tiposZona": [
+        "Zone ORA"
+      ],
+      "limiteTiempo": "Durée maximale générale : 2 heures ; dans certains secteurs, elle peut atteindre 4 heures. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.",
+      "horarioRegulado": "Selon le secteur et la signalisation en vigueur.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket ou disque horaire.\n- Inscription préalable.\n- Exemption de la durée maximale.\nRéférence générale : Durée maximale générale : 2 heures ; dans certains secteurs, elle peut atteindre 4 heures. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : Aranda de Duero dispose d’un service ORA avec des tarifs et des limites différents selon la rue ou le secteur.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte de stationnement PMR dans les places ordinaires réglementées n’a été trouvée."
+    },
     "09059": {
       "tiposZona": [
         "Zone ORA"
@@ -471,6 +628,16 @@
       "horarioRegulado": "Horaires et secteurs selon la signalisation et le site ORA Burgos en vigueur.",
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nDétails de la fiche :\n- Paiement : non confirmé.\n- Ticket : non confirmé.\n- Inscription préalable : non confirmée.\n- Durée maximale : Aucune durée maximale spécifique vérifiée n’est disponible pour les véhicules affichant une carte de stationnement PMR.\nPrécisions : Contexte général : Burgos dispose d’une zone ORA. Il reste à confirmer si la carte de stationnement PMR permet de stationner gratuitement, sans ticket ou plus longtemps.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : Burgos dispose d’une zone ORA. Il reste à confirmer si la carte de stationnement PMR permet de stationner gratuitement, sans ticket ou plus longtemps.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
+    },
+    "09219": {
+      "tiposZona": [
+        "Zone réglementée ORA",
+        "Zone bleue"
+      ],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : consultez la signalisation et l’ordonnance ; aucune durée maximale spécifique PMR n’a été confirmée",
+      "horarioRegulado": "Du lundi au vendredi de 9 h 30 à 14 h et de 16 h 30 à 20 h ; le samedi de 9 h 30 à 14 h.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : consultez la signalisation et l’ordonnance ; aucune durée maximale spécifique PMR n’a été confirmée\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : La mairie maintient et étend la zone bleue réglementée par l’ordonnance ORA.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
     },
     "10037": {
       "tiposZona": [
@@ -496,6 +663,13 @@
       "horarioRegulado": "",
       "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.\nContexte complémentaire : Contexte général : il n’est actuellement pas possible de confirmer quelles rues d’Algeciras disposent d’un stationnement réglementé actif, ni leurs horaires ou leurs conditions pour les titulaires d’une carte de stationnement PMR.",
       "observaciones": "Contexte général : il n’est actuellement pas possible de confirmer quelles rues d’Algeciras disposent d’un stationnement réglementé actif, ni leurs horaires ou leurs conditions pour les titulaires d’une carte de stationnement PMR.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
+    },
+    "11006": {
+      "tiposZona": [],
+      "limiteTiempo": "",
+      "horarioRegulado": "",
+      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.",
+      "observaciones": "Contexte général : aucune source municipale suffisamment claire et actuelle n’a été trouvée pour confirmer un service ordinaire de stationnement réglementé actif à Arcos de la Frontera. Cela ne signifie pas qu’il n’en existe pas.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
     },
     "11012": {
       "tiposZona": [
@@ -572,6 +746,22 @@
       "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.\nContexte complémentaire : Contexte général : aucune zone de stationnement réglementé confirmée n’est recensée à Sanlúcar de Barrameda. Cela ne signifie pas qu’il n’en existe pas ; aucune source officielle claire et à jour n’est simplement disponible.",
       "observaciones": "Contexte général : aucune zone de stationnement réglementé confirmée n’est recensée à Sanlúcar de Barrameda. Cela ne signifie pas qu’il n’en existe pas ; aucune source officielle claire et à jour n’est simplement disponible.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
     },
+    "11033": {
+      "tiposZona": [
+        "Stationnement réglementé sur voirie"
+      ],
+      "limiteTiempo": "Le règlement fixe des limites de durée dans les zones signalées. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.",
+      "horarioRegulado": "Selon la zone, les horaires et la signalisation municipale en vigueur.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket ou disque horaire.\n- Inscription préalable.\n- Exemption de la durée maximale.\nRéférence générale : Le règlement fixe des limites de durée dans les zones signalées. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : San Roque dispose d’un règlement spécifique qui organise et limite le stationnement sur certaines voies publiques.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte de stationnement PMR dans les places ordinaires réglementées n’a été trouvée."
+    },
+    "12032": {
+      "tiposZona": [],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte de stationnement PMR n’a été confirmée.",
+      "horarioRegulado": "Aucun horaire confirmé de stationnement réglementé n’est disponible.",
+      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- L’existence actuelle d’une zone de stationnement réglementé.\n- Les conditions particulières applicables aux titulaires d’une carte PMR.\nAvant de stationner : vérifiez la signalisation de la rue.",
+      "observaciones": "Aucune zone de stationnement réglementé n’a été confirmée à Borriana/Burriana. Cela ne signifie pas qu’il n’en existe pas : une source officielle claire et actuelle reste nécessaire. La source confirme l’existence et le contrôle de places réservées PMR, mais ne permet pas de confirmer l’existence d’une zone bleue ordinaire ou d’un service ORA actif."
+    },
     "12040": {
       "tiposZona": [
         "Zone bleue",
@@ -582,6 +772,13 @@
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nDétails de la fiche :\n- Paiement : non confirmé.\n- Ticket : non confirmé.\n- Inscription préalable : non confirmée.\n- Durée maximale : Aucune durée maximale spécifique vérifiée n’est disponible pour les véhicules affichant une carte de stationnement PMR.\nPrécisions : Contexte général : Castelló de la Plana/Castellón de la Plana dispose d’une zone bleue et de zones vertes réservées aux résidents. Il reste à confirmer si la carte de stationnement PMR permet de stationner gratuitement, sans ticket ou plus longtemps.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : Castelló de la Plana/Castellón de la Plana dispose d’une zone bleue et de zones vertes réservées aux résidents. Il reste à confirmer si la carte de stationnement PMR permet de stationner gratuitement, sans ticket ou plus longtemps.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
     },
+    "12126": {
+      "tiposZona": [],
+      "limiteTiempo": "",
+      "horarioRegulado": "",
+      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.",
+      "observaciones": "Contexte général : aucune source municipale suffisamment claire et actuelle n’a été trouvée pour confirmer un service ordinaire de stationnement réglementé actif à Vall d'Uixó, la. Cela ne signifie pas qu’il n’en existe pas.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
+    },
     "12135": {
       "tiposZona": [
         "Zone bleue gratuite contrôlée par disque dans le parking de la place Colom"
@@ -590,6 +787,16 @@
       "horarioRegulado": "Du lundi au vendredi de 9 h à 14 h et de 17 h à 20 h. Le samedi matin.",
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : autorisée sous conditions.\nDétails de la fiche :\n- Paiement : gratuit.\n- Ticket : requis.\n- Inscription préalable : non requise.\n- Durée maximale : La durée maximale générale est de 90 minutes. Aucune exemption pour les titulaires d’une carte de stationnement PMR n’a été trouvée.\nPrécisions : Contexte général : la réglementation trouvée concerne le parking souterrain municipal de la place Colom, et non l’ensemble de la ville.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : la réglementation trouvée concerne le parking souterrain municipal de la place Colom, et non l’ensemble de la ville.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
+    },
+    "13005": {
+      "tiposZona": [
+        "Zone bleue",
+        "Zone orange"
+      ],
+      "limiteTiempo": "Zone bleue : maximum général de 130 minutes. La zone orange possède ses propres conditions. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.",
+      "horarioRegulado": "Les horaires changent selon la saison ; consultez la signalisation et les informations du service.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket ou disque horaire.\n- Inscription préalable.\n- Exemption de la durée maximale.\nRéférence générale : Zone bleue : maximum général de 130 minutes. La zone orange possède ses propres conditions. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : Alcázar de San Juan dispose de zones bleue et orange avec des horaires et des tarifs différents.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte de stationnement PMR dans les places ordinaires réglementées n’a été trouvée."
     },
     "13034": {
       "tiposZona": [
@@ -611,6 +818,15 @@
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : autorisée.\nDétails de la fiche :\n- Paiement : gratuit.\n- Ticket : non requis.\n- Inscription préalable : non requise.\n- Durée maximale : Vous pouvez rester le temps nécessaire en laissant la carte clairement visible.\nPrécisions : Contexte général : la carte ne peut être utilisée que lorsque son titulaire se trouve dans le véhicule. Respectez les consignes de la police locale.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : la carte ne peut être utilisée que lorsque son titulaire se trouve dans le véhicule. Respectez les consignes de la police locale."
     },
+    "13082": {
+      "tiposZona": [
+        "Zone bleue"
+      ],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : consultez l’horodateur, l’application Telpark et la signalisation",
+      "horarioRegulado": "Aucun horaire particulier pour les titulaires d’une carte PMR n’a été confirmé.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : consultez l’horodateur, l’application Telpark et la signalisation\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : La mairie confirme le service de zone bleue, géré par Dornier/Telpark.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
+    },
     "14021": {
       "tiposZona": [
         "Zone bleue",
@@ -630,6 +846,32 @@
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : autorisée.\nDétails de la fiche :\n- Paiement : gratuit.\n- Ticket : non requis.\n- Inscription préalable : non requise.\n- Durée maximale : Aucune durée spécifique pour les titulaires d’une carte de stationnement PMR n’a été trouvée. Respectez la signalisation du parking.\nPrécisions : Contexte général : Lucena a supprimé en 2023 les zones bleues de San Francisco et El Peso, mais le site municipal maintient une petite zone bleue de 19 places dans la rue Molino.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : Lucena a supprimé en 2023 les zones bleues de San Francisco et El Peso, mais le site municipal maintient une petite zone bleue de 19 places dans la rue Molino.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
     },
+    "15002": {
+      "tiposZona": [
+        "Zones gratuites à durée limitée"
+      ],
+      "limiteTiempo": "Durée maximale générale : 30 minutes. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.",
+      "horarioRegulado": "Selon la signalisation de chaque zone et les horaires des commerces.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket ou disque horaire.\n- Inscription préalable.\n- Exemption de la durée maximale.\nRéférence générale : Durée maximale générale : 30 minutes. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : Ames dispose de zones gratuites à durée limitée destinées à favoriser la rotation à proximité des commerces.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte de stationnement PMR dans les places ordinaires réglementées n’a été trouvée."
+    },
+    "15005": {
+      "tiposZona": [],
+      "limiteTiempo": "",
+      "horarioRegulado": "",
+      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.",
+      "observaciones": "Contexte général : aucune source municipale suffisamment claire et actuelle n’a été trouvée pour confirmer un service ordinaire de stationnement réglementé actif à Arteixo. Cela ne signifie pas qu’il n’en existe pas.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
+    },
+    "15019": {
+      "tiposZona": [
+        "Zone bleue gratuite",
+        "Zones de stationnement express"
+      ],
+      "limiteTiempo": "Durée maximale générale : 90 minutes dans la zone bleue. La carte de stationnement PMR ne supprime pas la limite de durée ; l’heure d’arrivée doit être indiquée au moyen d’un disque ou d’un autre système admis.",
+      "horarioRegulado": "Selon la signalisation. Les zones de stationnement express fonctionnent de 12 h à 20 h avec une durée maximale générale de 10 minutes.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : autorisée sous conditions.\nDétails de la fiche :\n- Paiement : gratuit, comme pour les autres usagers.\n- Ticket : non requis.\n- Inscription préalable : non requise.\n- Disque horaire ou heure d’arrivée : requis dans les places soumises au contrôle du temps.\n- Durée maximale : 90 minutes dans la zone bleue ; la carte PMR ne supprime pas la limite de durée.\nAvant de stationner : vérifiez la signalisation et affichez correctement le disque ou l’heure d’arrivée.",
+      "observaciones": "Contexte général : Carballo dispose d’une zone bleue gratuite, normalement limitée à 90 minutes, et de zones de stationnement express. Le contrôle du temps utilise des disques indiquant l’heure d’arrivée."
+    },
     "15030": {
       "tiposZona": [
         "Zone bleue",
@@ -642,12 +884,41 @@
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : autorisée sous conditions.\nDétails de la fiche :\n- Paiement : paiement requis.\n- Ticket : requis.\n- Inscription préalable : non requise.\n- Durée maximale : Zone générale : maximum 2 heures. Courte durée I : maximum 1 heure. Courte durée II : maximum 20 minutes. Dans les zones de livraison, les véhicules correctement identifiés transportant un titulaire de carte PMR peuvent stationner au maximum 60 minutes.\nPrécisions : Contexte général : A Coruña n’accorde pas d’avantages PMR dans les places ordinaires de l’ORA : le paiement, le ticket et la durée maximale s’appliquent. Les places réservées restent gratuites.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : A Coruña n’accorde pas d’avantages PMR dans les places ordinaires de l’ORA : le paiement, le ticket et la durée maximale s’appliquent. Les places réservées restent gratuites."
     },
+    "15031": {
+      "tiposZona": [
+        "Zone bleue gratuite",
+        "Stationnement express"
+      ],
+      "limiteTiempo": "Durée maximale générale : 30 minutes dans la zone bleue gratuite. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.",
+      "horarioRegulado": "Selon la signalisation et les horaires des commerces dans chaque secteur.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket ou disque horaire.\n- Inscription préalable.\n- Exemption de la durée maximale.\nRéférence générale : Durée maximale générale : 30 minutes dans la zone bleue gratuite. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : Culleredo dispose de places gratuites à rotation rapide dans lesquelles l’heure d’arrivée doit être indiquée.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte de stationnement PMR dans les places ordinaires réglementées n’a été trouvée."
+    },
     "15036": {
       "tiposZona": [],
       "limiteTiempo": "",
       "horarioRegulado": "",
       "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.\nContexte complémentaire : Contexte général : aucune zone de stationnement réglementé confirmée n’est recensée à Ferrol. Cela ne signifie pas qu’il n’en existe pas ; aucune source officielle claire et à jour n’est simplement disponible.",
       "observaciones": "Contexte général : aucune zone de stationnement réglementé confirmée n’est recensée à Ferrol. Cela ne signifie pas qu’il n’en existe pas ; aucune source officielle claire et à jour n’est simplement disponible.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
+    },
+    "15054": {
+      "tiposZona": [
+        "Zone bleue"
+      ],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : durée générale maximale d’une heure ; l’heure d’arrivée doit être affichée",
+      "horarioRegulado": "Du lundi au vendredi, de 8 h à 15 h.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : durée générale maximale d’une heure ; l’heure d’arrivée doit être affichée\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : La mairie a instauré une zone bleue gratuite de rotation près de l’hôtel de ville, du centre de santé et de la bibliothèque, contrôlée par l’indication de l’heure d’arrivée.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
+    },
+    "15058": {
+      "tiposZona": [
+        "Zone réglementée ORA",
+        "Stationnement express"
+      ],
+      "limiteTiempo": "L’exclusion de la limitation générale exige une autorisation municipale spéciale. Aucune durée maximale spécifique PMR n’est publiée.",
+      "horarioRegulado": "Zone ORA : du 1er juin au 15 septembre, tous les jours y compris les jours fériés, de 12 h à 20 h. Places express : vérifiez la signalisation.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : autorisée sous conditions.\nLes véhicules appartenant à des personnes à mobilité réduite sont exclus de la limitation générale de l’ORA lorsqu’ils disposent de l’autorisation spéciale délivrée par la mairie.\nDétails de la fiche :\n- Paiement : gratuit avec l’autorisation spéciale.\n- Inscription ou autorisation préalable : requise.\nInformations non confirmées :\n- Nécessité d’obtenir un ticket.\n- Durée maximale spécifique PMR.\nAvant de stationner : affichez la carte et l’autorisation municipale et vérifiez la signalisation.",
+      "observaciones": "L’ORA fonctionne pendant la saison estivale et le stationnement express est gratuit avec une limite générale de 30 minutes. L’exception PMR dépend d’une autorisation municipale spéciale."
     },
     "15078": {
       "tiposZona": [
@@ -709,6 +980,26 @@
       "horarioRegulado": "Les horaires varient selon la zone et la saison.",
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : autorisée.\nDétails de la fiche :\n- Paiement : gratuit.\n- Ticket : non requis.\n- Inscription préalable : non requise.\n- Durée maximale : Respectez la signalisation. Dans les zones de livraison, il peut être nécessaire d’indiquer l’heure d’arrivée au moyen du disque PMR.\nPrécisions : Contexte général : Lloret applique une réglementation saisonnière et dispose de plusieurs types de zones. Vérifiez la signalisation, car des secteurs supplémentaires peuvent être activés en été.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : Lloret applique une réglementation saisonnière et dispose de plusieurs types de zones. Vérifiez la signalisation, car des secteurs supplémentaires peuvent être activés en été.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
+    },
+    "17114": {
+      "tiposZona": [
+        "Zone bleue",
+        "Zone verte"
+      ],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : la durée générale et les conditions dépendent de la zone et de la signalisation locale",
+      "horarioRegulado": "Aucun horaire particulier pour les titulaires d’une carte PMR n’a été confirmé.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : la durée générale et les conditions dépendent de la zone et de la signalisation locale\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : Les informations municipales confirment un stationnement réglementé et des démarches liées aux zones bleue et verte.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
+    },
+    "17155": {
+      "tiposZona": [
+        "Zone bleue",
+        "Zone verte"
+      ],
+      "limiteTiempo": "Les durées et les tarifs généraux dépendent de la zone. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.",
+      "horarioRegulado": "Selon la signalisation et les informations municipales en vigueur dans chaque secteur.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket ou disque horaire.\n- Inscription préalable.\n- Exemption de la durée maximale.\nRéférence générale : Les durées et les tarifs généraux dépendent de la zone. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : Salt maintient des zones de stationnement bleues et vertes, dont les emplacements et les conditions sont révisés périodiquement.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte de stationnement PMR dans les places ordinaires réglementées n’a été trouvée."
     },
     "18003": {
       "tiposZona": [],
@@ -1035,6 +1326,13 @@
       "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.\nContexte complémentaire : Contexte général : il n’est actuellement pas possible de confirmer si Vegas del Genil dispose d’une zone réglementée. Cela ne signifie pas qu’il n’en existe pas ; les informations officielles disponibles ne sont pas suffisamment claires.",
       "observaciones": "Contexte général : il n’est actuellement pas possible de confirmer si Vegas del Genil dispose d’une zone réglementée. Cela ne signifie pas qu’il n’en existe pas ; les informations officielles disponibles ne sont pas suffisamment claires.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
     },
+    "19046": {
+      "tiposZona": [],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte de stationnement PMR n’a été confirmée.",
+      "horarioRegulado": "Aucun horaire confirmé de stationnement réglementé n’est disponible.",
+      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- L’existence actuelle d’une zone de stationnement réglementé.\n- Les conditions particulières applicables aux titulaires d’une carte PMR.\nAvant de stationner : vérifiez la signalisation de la rue.",
+      "observaciones": "Aucune zone de stationnement réglementé n’a été confirmée à Azuqueca de Henares. Cela ne signifie pas qu’il n’en existe pas : une source officielle claire et actuelle reste nécessaire. L’examen du portail municipal et de sa réglementation n’a pas permis de confirmer l’existence d’une zone bleue ordinaire ou d’un service ORA actif."
+    },
     "19130": {
       "tiposZona": [
         "Zone bleue",
@@ -1054,6 +1352,16 @@
       "horarioRegulado": "Centre-ville : du lundi au vendredi de 9 h à 13 h 30 et de 15 h 30 à 20 h ; le samedi de 9 h à 13 h 30. Les autres zones appliquent des horaires différents.",
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : autorisée sous conditions.\nDétails de la fiche :\n- Paiement : gratuit.\n- Ticket : requis.\n- Inscription préalable : non requise.\n- Durée maximale : Maximum 60 minutes avec un ticket PMR gratuit. Un nouveau ticket gratuit ne peut être obtenu qu’après un délai de 3 heures.\nPrécisions : Contexte général : Irun autorise le stationnement gratuit dans l’OTA, mais exige un ticket PMR et limite la durée. Les places réservées PMR situées dans l’OTA ont leurs propres règles.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : Irun autorise le stationnement gratuit dans l’OTA, mais exige un ticket PMR et limite la durée. Les places réservées PMR situées dans l’OTA ont leurs propres règles."
+    },
+    "20067": {
+      "tiposZona": [
+        "Secteur bleu",
+        "Secteur vert"
+      ],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : secteur bleu : durée générale maximale de 90 minutes ; secteur vert : durée générale maximale de 4 heures",
+      "horarioRegulado": "Jours ouvrables : du lundi au vendredi de 9 h 30 à 13 h 30 et de 16 h à 20 h ; le samedi de 9 h 30 à 13 h 30.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : secteur bleu : durée générale maximale de 90 minutes ; secteur vert : durée générale maximale de 4 heures\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : L’ordonnance municipale de circulation réglemente le stationnement OTA avec des secteurs bleu et vert et exige un ticket visible.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
     },
     "20069": {
       "tiposZona": [
@@ -1085,6 +1393,13 @@
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nDétails de la fiche :\n- Paiement : non confirmé.\n- Ticket : non confirmé.\n- Inscription préalable : non confirmée.\n- Durée maximale : Aucune durée maximale spécifique vérifiée n’est disponible pour les véhicules affichant une carte de stationnement PMR.\nPrécisions : Contexte général : Huesca dispose d’une zone ORA. Il reste à confirmer si la carte de stationnement PMR permet de stationner gratuitement, sans ticket ou plus longtemps.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : Huesca dispose d’une zone ORA. Il reste à confirmer si la carte de stationnement PMR permet de stationner gratuitement, sans ticket ou plus longtemps.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
     },
+    "23005": {
+      "tiposZona": [],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte de stationnement PMR n’a été confirmée.",
+      "horarioRegulado": "Aucun horaire confirmé de stationnement réglementé n’est disponible.",
+      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- L’existence actuelle d’une zone de stationnement réglementé.\n- Les conditions particulières applicables aux titulaires d’une carte PMR.\nAvant de stationner : vérifiez la signalisation de la rue.",
+      "observaciones": "Aucune zone de stationnement réglementé n’a été confirmée à Andújar. Cela ne signifie pas qu’il n’en existe pas : une source officielle claire et actuelle reste nécessaire. Aucune source municipale claire et actuelle confirmant l’existence d’une zone bleue ordinaire ou d’un service ORA actif n’a été trouvée."
+    },
     "23050": {
       "tiposZona": [
         "Zone bleue",
@@ -1101,6 +1416,13 @@
       "horarioRegulado": "",
       "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.\nContexte complémentaire : Contexte général : aucune zone de stationnement réglementé confirmée n’est recensée à Linares. Cela ne signifie pas qu’il n’en existe pas ; aucune source officielle claire et à jour n’est simplement disponible.",
       "observaciones": "Contexte général : aucune zone de stationnement réglementé confirmée n’est recensée à Linares. Cela ne signifie pas qu’il n’en existe pas ; aucune source officielle claire et à jour n’est simplement disponible.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
+    },
+    "23092": {
+      "tiposZona": [],
+      "limiteTiempo": "",
+      "horarioRegulado": "",
+      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.",
+      "observaciones": "Contexte général : aucune source municipale suffisamment claire et actuelle n’a été trouvée pour confirmer un service ordinaire de stationnement réglementé actif à Úbeda. Cela ne signifie pas qu’il n’en existe pas.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
     },
     "24089": {
       "tiposZona": [
@@ -1197,6 +1519,13 @@
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : autorisée sous conditions.\nDétails de la fiche :\n- Paiement : gratuit.\n- Ticket : non requis.\n- Inscription préalable : non requise.\n- Durée maximale : La durée maximale générale est de 45 minutes. Aucune exemption spécifique n’est indiquée pour les titulaires d’une carte de stationnement PMR.\nPrécisions : Contexte général : il s’agit d’une zone gratuite à forte rotation. La commune sanctionne tout dépassement de la durée maximale de 45 minutes.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : il s’agit d’une zone gratuite à forte rotation. La commune sanctionne tout dépassement de la durée maximale de 45 minutes.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
     },
+    "28015": {
+      "tiposZona": [],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte de stationnement PMR n’a été confirmée.",
+      "horarioRegulado": "Aucun horaire confirmé de stationnement réglementé n’est disponible.",
+      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- L’existence actuelle d’une zone de stationnement réglementé.\n- Les conditions particulières applicables aux titulaires d’une carte PMR.\nAvant de stationner : vérifiez la signalisation de la rue.",
+      "observaciones": "Aucune zone de stationnement réglementé n’a été confirmée à Arroyomolinos. Cela ne signifie pas qu’il n’en existe pas : une source officielle claire et actuelle reste nécessaire. L’examen du portail municipal n’a pas permis de confirmer l’existence d’un service ordinaire de stationnement réglementé."
+    },
     "28022": {
       "tiposZona": [],
       "limiteTiempo": "",
@@ -1234,6 +1563,16 @@
       "horarioRegulado": "Selon le calendrier et la signalisation de la Zone à Faibles Émissions.",
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : autorisée sous conditions.\nDétails de la fiche :\n- Paiement : sans objet.\n- Ticket : sans objet.\n- Inscription préalable : requise.\n- Durée maximale : Il ne s’agit pas d’une zone ORA payante. Les restrictions dépendent du véhicule et de l’autorisation d’accès à la Zone à Faibles Émissions.\nPrécisions : Contexte général : Fuenlabrada réglemente l’accès et le stationnement au moyen de sa Zone à Faibles Émissions. Il ne s’agit pas d’une zone ORA payante et, selon le véhicule, l’immatriculation peut devoir être enregistrée.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : Fuenlabrada réglemente l’accès et le stationnement au moyen de sa Zone à Faibles Émissions. Il ne s’agit pas d’une zone ORA payante et, selon le véhicule, l’immatriculation peut devoir être enregistrée.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
+    },
+    "28061": {
+      "tiposZona": [
+        "Zone bleue",
+        "Zone verte"
+      ],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : consultez l’horodateur et la signalisation ; la durée maximale dépend du type de zone",
+      "horarioRegulado": "Du lundi au vendredi de 9 h à 14 h et de 16 h à 21 h ; le samedi de 10 h à 14 h. Aucun service le dimanche et les jours fériés.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : consultez l’horodateur et la signalisation ; la durée maximale dépend du type de zone\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : Le Service municipal de stationnement réglementé confirme des zones bleue et verte avec ticket.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
     },
     "28065": {
       "tiposZona": [
@@ -1282,6 +1621,13 @@
       "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.\nContexte complémentaire : Contexte général : Móstoles réglemente les places réservées PMR, mais aucun système général actif de stationnement réglementé payant n’est actuellement recensé.",
       "observaciones": "Contexte général : Móstoles réglemente les places réservées PMR, mais aucun système général actif de stationnement réglementé payant n’est actuellement recensé.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
     },
+    "28096": {
+      "tiposZona": [],
+      "limiteTiempo": "",
+      "horarioRegulado": "",
+      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.",
+      "observaciones": "Contexte général : aucune source municipale suffisamment claire et actuelle n’a été trouvée pour confirmer un service ordinaire de stationnement réglementé actif à Navalcarnero. Cela ne signifie pas qu’il n’en existe pas.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
+    },
     "28106": {
       "tiposZona": [],
       "limiteTiempo": "",
@@ -1320,6 +1666,13 @@
       "horarioRegulado": "",
       "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.\nContexte complémentaire : Contexte général : il n’est actuellement pas possible de confirmer si Las Rozas de Madrid dispose d’une zone réglementée. Cela ne signifie pas qu’il n’en existe pas ; les informations officielles disponibles ne sont pas suffisamment claires.",
       "observaciones": "Contexte général : il n’est actuellement pas possible de confirmer si Las Rozas de Madrid dispose d’une zone réglementée. Cela ne signifie pas qu’il n’en existe pas ; les informations officielles disponibles ne sont pas suffisamment claires.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
+    },
+    "28130": {
+      "tiposZona": [],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte de stationnement PMR n’a été confirmée.",
+      "horarioRegulado": "Aucun horaire confirmé de stationnement réglementé n’est disponible.",
+      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- L’existence actuelle d’une zone de stationnement réglementé.\n- Les conditions particulières applicables aux titulaires d’une carte PMR.\nAvant de stationner : vérifiez la signalisation de la rue.",
+      "observaciones": "Aucune zone de stationnement réglementé n’a été confirmée à San Fernando de Henares. Cela ne signifie pas qu’il n’en existe pas : une source officielle claire et actuelle reste nécessaire. La source confirme les démarches relatives à la carte de stationnement PMR et aux places réservées, mais pas l’existence d’une zone bleue ordinaire ou d’un service ORA actif."
     },
     "28134": {
       "tiposZona": [
@@ -1449,6 +1802,15 @@
       "condicionesPmr": "Zone de stationnement réglementé : mise en service ou confirmation en attente.\nInformations en attente :\n- Date de mise en service.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : fiez-vous à la signalisation dans la rue.\nContexte complémentaire : Contexte général : le règlement a été définitivement approuvé en mars 2026, mais le cahier des charges, l’appel d’offres et l’attribution restaient encore à réaliser.",
       "observaciones": "Contexte général : le règlement a été définitivement approuvé en mars 2026, mais le cahier des charges, l’appel d’offres et l’attribution restaient encore à réaliser.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
     },
+    "29084": {
+      "tiposZona": [
+        "Stationnement réglementé"
+      ],
+      "limiteTiempo": "La durée maximale générale dépend de la zone et du tarif. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.",
+      "horarioRegulado": "Selon la zone, la saison et la signalisation en vigueur.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket ou disque horaire.\n- Inscription préalable.\n- Exemption de la durée maximale.\nRéférence générale : La durée maximale générale dépend de la zone et du tarif. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : Ronda applique des tarifs publics et des réductions dans son service de stationnement réglementé.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte de stationnement PMR dans les places ordinaires réglementées n’a été trouvée."
+    },
     "29094": {
       "tiposZona": [
         "Zone bleue"
@@ -1468,6 +1830,16 @@
       "horarioRegulado": "Les horaires approuvés ne doivent pas être considérés comme applicables tant que le début du service n’a pas été annoncé officiellement.",
       "condicionesPmr": "Zone de stationnement réglementé : mise en service ou confirmation en attente.\nInformations en attente :\n- Date de mise en service.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : fiez-vous à la signalisation dans la rue.\nContexte complémentaire : Contexte général : Torremolinos a approuvé son règlement et ses dispositions d’application, mais aucune annonce officielle de mise en service, aucun opérateur, horodateur ou application n’a été trouvé.",
       "observaciones": "Contexte général : Torremolinos a approuvé son règlement et ses dispositions d’application, mais aucune annonce officielle de mise en service, aucun opérateur, horodateur ou application n’a été trouvé.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
+    },
+    "30003": {
+      "tiposZona": [
+        "Zone bleue",
+        "Zone orange"
+      ],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : consultez la signalisation et les conditions de chaque zone",
+      "horarioRegulado": "Aucun horaire particulier pour les titulaires d’une carte PMR n’a été confirmé.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : consultez la signalisation et les conditions de chaque zone\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : Le catalogue municipal des démarches comprend des autorisations liées à la zone bleue, à la zone orange et à la carte PMR.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
     },
     "30005": {
       "tiposZona": [
@@ -1489,6 +1861,13 @@
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nDétails de la fiche :\n- Paiement : non confirmé.\n- Ticket : non confirmé.\n- Inscription préalable : non confirmée.\n- Durée maximale : Aucune durée maximale spécifique vérifiée n’est disponible pour les véhicules affichant une carte de stationnement PMR.\nPrécisions : Contexte général : Cartagena dispose d’une zone bleue, d’une zone verte en semaine et d’une zone orange pour résidents. Il reste à confirmer si la carte de stationnement PMR permet de stationner gratuitement, sans ticket ou plus longtemps.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : Cartagena dispose d’une zone bleue, d’une zone verte en semaine et d’une zone orange pour résidents. Il reste à confirmer si la carte de stationnement PMR permet de stationner gratuitement, sans ticket ou plus longtemps.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
     },
+    "30019": {
+      "tiposZona": [],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte de stationnement PMR n’a été confirmée.",
+      "horarioRegulado": "Aucun horaire confirmé de stationnement réglementé n’est disponible.",
+      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- L’existence actuelle d’une zone de stationnement réglementé.\n- Les conditions particulières applicables aux titulaires d’une carte PMR.\nAvant de stationner : vérifiez la signalisation de la rue.",
+      "observaciones": "Aucune zone de stationnement réglementé n’a été confirmée à Cieza. Cela ne signifie pas qu’il n’en existe pas : une source officielle claire et actuelle reste nécessaire. La référence municipale trouvée présentait la zone bleue comme un projet ; sa mise en œuvre actuelle n’a pas été confirmée."
+    },
     "30024": {
       "tiposZona": [
         "Zone bleue",
@@ -1498,6 +1877,13 @@
       "horarioRegulado": "Du lundi au vendredi de 9 h à 14 h et de 17 h à 20 h ; le samedi de 9 h à 14 h. Aucun paiement le samedi après-midi, le dimanche et les jours fériés. Gratuit en août.",
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nDétails de la fiche :\n- Paiement : non confirmé.\n- Ticket : non confirmé.\n- Inscription préalable : non confirmée.\n- Durée maximale : Zone bleue : durée maximale générale de 2 heures.\nPrécisions : Contexte général : Lorca dispose d’une zone bleue et d’une zone verte réservée aux résidents. Il reste à confirmer si la carte de stationnement PMR permet de stationner gratuitement, sans ticket ou plus longtemps.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : Lorca dispose d’une zone bleue et d’une zone verte réservée aux résidents. Il reste à confirmer si la carte de stationnement PMR permet de stationner gratuitement, sans ticket ou plus longtemps.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
+    },
+    "30026": {
+      "tiposZona": [],
+      "limiteTiempo": "Les places municipales réservées PMR sont en principe sans limite de durée. La durée applicable à une place réglementée ordinaire n’a pas été confirmée.",
+      "horarioRegulado": "Aucun horaire confirmé de stationnement réglementé n’est disponible.",
+      "condicionesPmr": "Zone de stationnement réglementé ordinaire : aucun service actif n’a été confirmé.\nInformations confirmées :\n- Les places signalées et réservées aux titulaires d’une carte PMR sont en principe permanentes et sans limite de durée.\nInformations non confirmées :\n- Utilisation des places ordinaires d’une éventuelle zone réglementée.\n- Paiement.\n- Ticket.\n- Inscription préalable.\nAvant de stationner : affichez la carte PMR et vérifiez la signalisation de la place.",
+      "observaciones": "Aucune zone de stationnement réglementé n’a été confirmée à Mazarrón. Cela ne signifie pas qu’il n’en existe pas : une source officielle claire et actuelle reste nécessaire. Le règlement confirme l’existence de places réservées PMR sans limitation horaire et prévoit leur implantation dans des zones réglementées, mais n’identifie pas de service ordinaire actif ni ses règles actuelles."
     },
     "30027": {
       "tiposZona": [],
@@ -1518,12 +1904,38 @@
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : autorisée sous conditions.\nDétails de la fiche :\n- Paiement : gratuit.\n- Ticket : requis.\n- Inscription préalable : requise.\n- Durée maximale : Sans limite de durée dans les zones bleue et verte après obtention d’un ticket gratuit. Dans les zones de livraison, la durée maximale est de 2 heures avec un ticket gratuit. La zone orange exige une autorisation de résident et une redevance annuelle.\nPrécisions : Contexte général : Murcia autorise le stationnement gratuit sans limite de durée dans les zones bleue et verte, mais exige une inscription préalable et un ticket gratuit. Dans les zones de livraison, la durée maximale est de 2 heures.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : Murcia autorise le stationnement gratuit sans limite de durée dans les zones bleue et verte, mais exige une inscription préalable et un ticket gratuit. Dans les zones de livraison, la durée maximale est de 2 heures."
     },
+    "30035": {
+      "tiposZona": [],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte de stationnement PMR n’a été confirmée.",
+      "horarioRegulado": "Aucun horaire confirmé de stationnement réglementé n’est disponible.",
+      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- L’existence actuelle d’une zone de stationnement réglementé.\n- Les conditions particulières applicables aux titulaires d’une carte PMR.\nAvant de stationner : vérifiez la signalisation de la rue.",
+      "observaciones": "Aucune zone de stationnement réglementé n’a été confirmée à San Javier. Cela ne signifie pas qu’il n’en existe pas : une source officielle claire et actuelle reste nécessaire. Aucune référence municipale claire et actuelle confirmant l’existence d’une zone bleue ordinaire ou d’un service ORA actif n’a été trouvée."
+    },
     "30037": {
       "tiposZona": [],
       "limiteTiempo": "",
       "horarioRegulado": "",
       "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.\nContexte complémentaire : Contexte général : l’examen du site municipal, du guichet en ligne et de la réglementation accessible n’a pas permis de confirmer l’existence d’un service de stationnement réglementé.",
       "observaciones": "Contexte général : l’examen du site municipal, du guichet en ligne et de la réglementation accessible n’a pas permis de confirmer l’existence d’un service de stationnement réglementé.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
+    },
+    "30039": {
+      "tiposZona": [
+        "Zone bleue",
+        "Zones de stationnement pour résidents"
+      ],
+      "limiteTiempo": "La durée générale dépend de la signalisation et du secteur. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.",
+      "horarioRegulado": "Selon la signalisation municipale en vigueur.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket ou disque horaire.\n- Inscription préalable.\n- Exemption de la durée maximale.\nRéférence générale : La durée générale dépend de la signalisation et du secteur. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : Les informations municipales sur la circulation mentionnent une zone bleue et des secteurs de stationnement pour résidents, bien qu’une partie de la documentation disponible ne soit pas récente.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte de stationnement PMR dans les places ordinaires réglementées n’a été trouvée."
+    },
+    "30043": {
+      "tiposZona": [
+        "Zone bleue"
+      ],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : consultez la signalisation et l’ordonnance en vigueur",
+      "horarioRegulado": "Aucun horaire particulier pour les titulaires d’une carte PMR n’a été confirmé.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : consultez la signalisation et l’ordonnance en vigueur\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : La mairie révise la réglementation de la zone bleue, ce qui confirme l’existence du service.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
     },
     "31201": {
       "tiposZona": [
@@ -1536,6 +1948,16 @@
       "horarioRegulado": "Zones bleue et orange : du lundi au vendredi de 8 h 30 à 14 h et de 16 h à 20 h ; le samedi de 8 h 30 à 14 h. Zone rouge : du lundi au vendredi de 9 h à 14 h et de 16 h à 20 h ; le samedi de 9 h à 14 h. Des secteurs spéciaux existent également.",
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : autorisée.\nDétails de la fiche :\n- Paiement : gratuit.\n- Ticket : non requis.\n- Inscription préalable : non requise.\n- Durée maximale : Aucune durée spécifique pour les titulaires d’une carte de stationnement PMR n’est indiquée dans les informations sur les exemptions ; les restrictions et la signalisation de chaque zone doivent être respectées.\nPrécisions : Contexte général : Pamplona/Iruña dispose de zones bleue, rouge, orange et verte. Avec une carte de stationnement PMR, vous pouvez stationner gratuitement et sans ticket. Il n’est pas établi si la carte modifie la durée maximale. Respectez les restrictions de chaque zone.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : Pamplona/Iruña dispose de zones bleue, rouge, orange et verte. Avec une carte de stationnement PMR, vous pouvez stationner gratuitement et sans ticket. Il n’est pas établi si la carte modifie la durée maximale. Respectez les restrictions de chaque zone.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
+    },
+    "31232": {
+      "tiposZona": [
+        "Zone bleue",
+        "Zone verte"
+      ],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : consultez l’horodateur et la signalisation ; aucune durée maximale spécifique PMR n’a été confirmée",
+      "horarioRegulado": "Du lundi au vendredi de 9 h à 13 h 30 et de 16 h à 20 h ; le samedi de 9 h à 13 h 30.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : consultez l’horodateur et la signalisation ; aucune durée maximale spécifique PMR n’a été confirmée\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : La mairie confirme des zones bleues payantes et des zones vertes destinées aux résidents.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
     },
     "32054": {
       "tiposZona": [
@@ -1564,6 +1986,22 @@
       "horarioRegulado": "Du lundi au vendredi de 9 h à 14 h et de 16 h à 20 h ; le samedi de 9 h à 14 h.",
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : autorisée sous conditions.\nDétails de la fiche :\n- Paiement : gratuit.\n- Ticket : non requis.\n- Inscription préalable : requise.\n- Durée maximale : Aucune durée spécifique n’est publiée dans les informations trouvées concernant la carte ORA PMR locale.\nPrécisions : Contexte général : Gijón exige une carte ORA locale liée à la carte de stationnement PMR et à l’immatriculation. Elle entraîne une redevance annuelle, mais aucun paiement n’est ensuite exigé pour chaque stationnement.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : Gijón exige une carte ORA locale liée à la carte de stationnement PMR et à l’immatriculation. Elle entraîne une redevance annuelle, mais aucun paiement n’est ensuite exigé pour chaque stationnement."
+    },
+    "33031": {
+      "tiposZona": [],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte de stationnement PMR n’a été confirmée.",
+      "horarioRegulado": "Aucun horaire confirmé de stationnement réglementé n’est disponible.",
+      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- L’existence actuelle d’une zone de stationnement réglementé.\n- Les conditions particulières applicables aux titulaires d’une carte PMR.\nAvant de stationner : vérifiez la signalisation de la rue.",
+      "observaciones": "Aucune zone de stationnement réglementé n’a été confirmée à Langreo. Cela ne signifie pas qu’il n’en existe pas : une source officielle claire et actuelle reste nécessaire. Aucune référence municipale claire à une zone bleue ordinaire ou à un service ORA actif n’a été trouvée."
+    },
+    "33037": {
+      "tiposZona": [
+        "Zone bleue"
+      ],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : durée générale maximale de 2 heures ; le véhicule doit ensuite changer de zone",
+      "horarioRegulado": "Aucun horaire particulier pour les titulaires d’une carte PMR n’a été confirmé.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : durée générale maximale de 2 heures ; le véhicule doit ensuite changer de zone\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : La mairie confirme une zone bleue gratuite nécessitant un ticket à l’horodateur ou via une application, avec une limite générale de deux heures.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
     },
     "33044": {
       "tiposZona": [
@@ -1594,12 +2032,37 @@
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : autorisée.\nDétails de la fiche :\n- Paiement : gratuit.\n- Ticket : non confirmé.\n- Inscription préalable : non requise.\n- Durée maximale : Il n’est pas établi si les limites générales de 2 heures dans la zone bleue et de 1 heure dans la zone orange s’appliquent.\nPrécisions : Contexte général : Palencia dispose de zones bleue et orange. Vous pouvez stationner gratuitement, mais il n’est pas établi si un ticket est nécessaire. Il n’est pas non plus établi si les limites générales de 2 heures dans la zone bleue et de 1 heure dans la zone orange restent applicables.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : Palencia dispose de zones bleue et orange. Vous pouvez stationner gratuitement, mais il n’est pas établi si un ticket est nécessaire. Il n’est pas non plus établi si les limites générales de 2 heures dans la zone bleue et de 1 heure dans la zone orange restent applicables.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
     },
+    "35002": {
+      "tiposZona": [],
+      "limiteTiempo": "",
+      "horarioRegulado": "",
+      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.",
+      "observaciones": "Contexte général : aucune source municipale suffisamment claire et actuelle n’a été trouvée pour confirmer un service ordinaire de stationnement réglementé actif à Agüimes. Cela ne signifie pas qu’il n’en existe pas.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
+    },
     "35004": {
       "tiposZona": [],
       "limiteTiempo": "",
       "horarioRegulado": "",
       "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.\nContexte complémentaire : Contexte général : aucune zone de stationnement réglementé confirmée n’est recensée à Arrecife. Cela ne signifie pas qu’il n’en existe pas ; aucune source officielle claire et à jour n’est simplement disponible.",
       "observaciones": "Contexte général : aucune zone de stationnement réglementé confirmée n’est recensée à Arrecife. Cela ne signifie pas qu’il n’en existe pas ; aucune source officielle claire et à jour n’est simplement disponible.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
+    },
+    "35006": {
+      "tiposZona": [
+        "Zone bleue"
+      ],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : consultez la signalisation de chaque tronçon",
+      "horarioRegulado": "Aucun horaire particulier pour les titulaires d’une carte PMR n’a été confirmé.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : consultez la signalisation de chaque tronçon\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : La mairie a confirmé le maintien de la zone bleue comme système de rotation dans le centre-ville.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
+    },
+    "35011": {
+      "tiposZona": [
+        "Zone bleue"
+      ],
+      "limiteTiempo": "La durée maximale dépend de la signalisation de chaque tronçon. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.",
+      "horarioRegulado": "Selon la signalisation et les conditions municipales en vigueur.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket ou disque horaire.\n- Inscription préalable.\n- Exemption de la durée maximale.\nRéférence générale : La durée maximale dépend de la signalisation de chaque tronçon. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : Ingenio maintient des zones bleues avec des durées maximales destinées à favoriser la rotation des véhicules.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte de stationnement PMR dans les places ordinaires réglementées n’a été trouvée."
     },
     "35016": {
       "tiposZona": [
@@ -1661,6 +2124,15 @@
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nDétails de la fiche :\n- Paiement : non confirmé.\n- Ticket : non confirmé.\n- Inscription préalable : non confirmée.\n- Durée maximale : Aucune durée maximale spécifique vérifiée n’est disponible pour les véhicules affichant une carte de stationnement PMR.\nPrécisions : Contexte général : Vigo dispose d’une zone bleue XER. Il reste à confirmer si la carte de stationnement PMR permet de stationner gratuitement, sans ticket ou plus longtemps.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : Vigo dispose d’une zone bleue XER. Il reste à confirmer si la carte de stationnement PMR permet de stationner gratuitement, sans ticket ou plus longtemps.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
     },
+    "36060": {
+      "tiposZona": [
+        "Zone bleue"
+      ],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : durée générale maximale d’une heure ; l’heure d’arrivée doit être affichée au moyen d’un disque",
+      "horarioRegulado": "Aucun horaire particulier pour les titulaires d’une carte PMR n’a été confirmé.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : durée générale maximale d’une heure ; l’heure d’arrivée doit être affichée au moyen d’un disque\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : Les informations touristiques municipales confirment une zone bleue gratuite d’une heure, avec un disque indiquant l’heure d’arrivée.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
+    },
     "37274": {
       "tiposZona": [
         "Zone ORA"
@@ -1709,12 +2181,37 @@
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : autorisée sous conditions.\nDétails de la fiche :\n- Paiement : gratuit.\n- Ticket : non requis.\n- Inscription préalable : non requise.\n- Durée maximale : 60 minutes pour tout véhicule. Si le conducteur justifie de son propre handicap, la durée autorisée est de 120 minutes.\nPrécisions : Contexte général : l’avantage de 120 minutes s’applique à un conducteur dont le handicap est justifié, et non automatiquement à tout véhicule transportant une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : l’avantage de 120 minutes s’applique à un conducteur dont le handicap est justifié, et non automatiquement à tout véhicule transportant une carte de stationnement PMR."
     },
+    "38028": {
+      "tiposZona": [],
+      "limiteTiempo": "",
+      "horarioRegulado": "",
+      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.",
+      "observaciones": "Contexte général : aucune source municipale suffisamment claire et actuelle n’a été trouvée pour confirmer un service ordinaire de stationnement réglementé actif à Puerto de la Cruz. Cela ne signifie pas qu’il n’en existe pas.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
+    },
+    "38031": {
+      "tiposZona": [
+        "Zone bleue"
+      ],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : durée générale maximale d’une heure",
+      "horarioRegulado": "Du lundi au vendredi de 9 h 30 à 13 h 30 et de 16 h 30 à 20 h ; le samedi de 10 h à 13 h 30. Aucun service le dimanche et les jours fériés.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : durée générale maximale d’une heure\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : La mairie confirme une zone bleue gratuite avec contrôle automatique des plaques d’immatriculation.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
+    },
     "38038": {
       "tiposZona": [],
       "limiteTiempo": "",
       "horarioRegulado": "",
       "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.\nContexte complémentaire : Contexte général : Santa Cruz de Tenerife prépare une future Zone de Stationnement Réglementé. Cette fiche devra être révisée lors de la mise en service.",
       "observaciones": "Contexte général : Santa Cruz de Tenerife prépare une future Zone de Stationnement Réglementé. Cette fiche devra être révisée lors de la mise en service.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
+    },
+    "39020": {
+      "tiposZona": [
+        "Stationnement réglementé OCA"
+      ],
+      "limiteTiempo": "La durée générale dépend de la zone OCA et du type d’autorisation. Aucune exemption générale pour les titulaires d’une carte de stationnement PMR n’a été confirmée.",
+      "horarioRegulado": "Selon la saison, la zone et la signalisation en vigueur.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket ou disque horaire.\n- Inscription préalable.\n- Exemption de la durée maximale.\nRéférence générale : La durée générale dépend de la zone OCA et du type d’autorisation. Aucune exemption générale pour les titulaires d’une carte de stationnement PMR n’a été confirmée.\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : Castro-Urdiales dispose d’un règlement et d’une redevance spécifiques pour le système de stationnement OCA.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte de stationnement PMR dans les places ordinaires réglementées n’a été trouvée."
     },
     "39075": {
       "tiposZona": [
@@ -1748,6 +2245,13 @@
       "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.\nContexte complémentaire : Contexte général : il n’est actuellement pas possible de confirmer si Alcalá de Guadaíra dispose d’une zone réglementée. Cela ne signifie pas qu’il n’en existe pas ; les informations officielles disponibles ne sont pas suffisamment claires.",
       "observaciones": "Contexte général : il n’est actuellement pas possible de confirmer si Alcalá de Guadaíra dispose d’une zone réglementée. Cela ne signifie pas qu’il n’en existe pas ; les informations officielles disponibles ne sont pas suffisamment claires.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
     },
+    "41034": {
+      "tiposZona": [],
+      "limiteTiempo": "",
+      "horarioRegulado": "",
+      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.",
+      "observaciones": "Contexte général : aucune source municipale suffisamment claire et actuelle n’a été trouvée pour confirmer un service ordinaire de stationnement réglementé actif à Coria del Río. Cela ne signifie pas qu’il n’en existe pas.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
+    },
     "41038": {
       "tiposZona": [],
       "limiteTiempo": "",
@@ -1755,12 +2259,26 @@
       "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.\nContexte complémentaire : Contexte général : il n’est actuellement pas possible de confirmer si Dos Hermanas dispose d’une zone réglementée. Cela ne signifie pas qu’il n’en existe pas ; les informations officielles disponibles ne sont pas suffisamment claires.",
       "observaciones": "Contexte général : il n’est actuellement pas possible de confirmer si Dos Hermanas dispose d’une zone réglementée. Cela ne signifie pas qu’il n’en existe pas ; les informations officielles disponibles ne sont pas suffisamment claires.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
     },
+    "41039": {
+      "tiposZona": [],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte de stationnement PMR n’a été confirmée.",
+      "horarioRegulado": "Aucun horaire confirmé de stationnement réglementé n’est disponible.",
+      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- L’existence actuelle d’une zone de stationnement réglementé.\n- Les conditions particulières applicables aux titulaires d’une carte PMR.\nAvant de stationner : vérifiez la signalisation de la rue.",
+      "observaciones": "Aucune zone de stationnement réglementé n’a été confirmée à Écija. Cela ne signifie pas qu’il n’en existe pas : une source officielle claire et actuelle reste nécessaire. L’examen du portail municipal n’a pas permis de confirmer l’existence d’un service ordinaire actif de zone bleue ou d’ORA."
+    },
     "41059": {
       "tiposZona": [],
       "limiteTiempo": "",
       "horarioRegulado": "",
       "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.\nContexte complémentaire : Contexte général : l’examen du site municipal, du guichet en ligne et de la réglementation accessible n’a pas permis de confirmer l’existence d’un service de stationnement réglementé. La source confirme des places réservées PMR, et non une zone bleue.",
       "observaciones": "Contexte général : l’examen du site municipal, du guichet en ligne et de la réglementation accessible n’a pas permis de confirmer l’existence d’un service de stationnement réglementé. La source confirme des places réservées PMR, et non une zone bleue.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
+    },
+    "41069": {
+      "tiposZona": [],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte de stationnement PMR n’a été confirmée.",
+      "horarioRegulado": "Aucun horaire confirmé de stationnement réglementé n’est disponible.",
+      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- L’existence actuelle d’une zone de stationnement réglementé.\n- Les conditions particulières applicables aux titulaires d’une carte PMR.\nAvant de stationner : vérifiez la signalisation de la rue.",
+      "observaciones": "Aucune zone de stationnement réglementé n’a été confirmée à Los Palacios y Villafranca. Cela ne signifie pas qu’il n’en existe pas : une source officielle claire et actuelle reste nécessaire. Les mesures municipales consultées réorganisent le stationnement, mais ne confirment pas l’existence d’une zone bleue ordinaire ou d’un service ORA actif."
     },
     "41081": {
       "tiposZona": [],
@@ -1798,6 +2316,27 @@
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : autorisée.\nDétails de la fiche :\n- Paiement : gratuit.\n- Ticket : non requis.\n- Inscription préalable : non requise.\n- Durée maximale : Sans limite de durée pour les véhicules affichant une carte de stationnement PMR.\nPrécisions : Contexte général : Soria dispose d’une zone bleue. Avec une carte de stationnement PMR, vous pouvez stationner gratuitement et sans ticket. Aucune limite de durée ne s’applique lorsque la carte est clairement visible.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : Soria dispose d’une zone bleue. Avec une carte de stationnement PMR, vous pouvez stationner gratuitement et sans ticket. Aucune limite de durée ne s’applique lorsque la carte est clairement visible."
     },
+    "43037": {
+      "tiposZona": [
+        "Zone bleue",
+        "Zone orange",
+        "Zone rouge",
+        "Zone à accès réglementé"
+      ],
+      "limiteTiempo": "Durée maximale générale : 3 heures dans la zone bleue. Aucune exemption spécifique de la durée n’a été confirmée pour les titulaires d’une carte de stationnement PMR ; respectez la signalisation.",
+      "horarioRegulado": "Les horaires varient selon la zone et la saison. Consultez la signalisation et les informations municipales en vigueur.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : autorisée.\nDétails de la fiche :\n- Paiement : gratuit dans les zones bleue et orange lorsque la carte PMR est visible.\n- Ticket : non requis.\n- Inscription préalable : non requise.\n- Durée maximale : respectez la durée et la signalisation de chaque zone ; aucune exemption générale de la durée maximale n’a été confirmée.\nAvant de stationner : affichez clairement la carte et vérifiez la signalisation.",
+      "observaciones": "Contexte général : Calafell dispose de zones bleue, orange et rouge, ainsi que de secteurs à accès réglementé. Les informations municipales sur l’accessibilité confirment la gratuité dans les zones bleue et orange pour les titulaires d’une carte PMR lorsque celle-ci est visible."
+    },
+    "43038": {
+      "tiposZona": [
+        "Zone bleue"
+      ],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : durée générale maximale de 4 heures dans la zone de plage et de 2 heures dans le centre urbain",
+      "horarioRegulado": "Du lundi au vendredi de 10 h à 13 h et de 17 h à 20 h ; le samedi de 10 h à 13 h, sauf jours fériés. Une réglementation saisonnière peut s’appliquer selon les secteurs.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : durée générale maximale de 4 heures dans la zone de plage et de 2 heures dans le centre urbain\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : La mairie publie les règles de la zone bleue pour les secteurs de plage et du centre urbain.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
+    },
     "43123": {
       "tiposZona": [
         "Zone bleue",
@@ -1821,6 +2360,15 @@
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : autorisée sous conditions.\nDétails de la fiche :\n- Paiement : non confirmé.\n- Ticket : non confirmé.\n- Inscription préalable : non confirmée.\n- Durée maximale : Dans les zones de livraison, la durée maximale est de 1 heure consécutive avec l’application municipale. Aucune durée spécifique vérifiée pour les titulaires d’une carte de stationnement PMR n’est disponible dans les autres zones réglementées.\nPrécisions : Contexte général : Tarragona permet d’utiliser les zones de livraison pendant 1 heure au moyen de l’application municipale. Les avantages PMR dans les autres zones restent encore imprécis.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : Tarragona permet d’utiliser les zones de livraison pendant 1 heure au moyen de l’application municipale. Les avantages PMR dans les autres zones restent encore imprécis.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
     },
+    "43155": {
+      "tiposZona": [
+        "Zone bleue"
+      ],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : la durée dépend du secteur ; certains parkings de rotation offrent 2 h 30 gratuites",
+      "horarioRegulado": "Aucun horaire particulier pour les titulaires d’une carte PMR n’a été confirmé.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : la durée dépend du secteur ; certains parkings de rotation offrent 2 h 30 gratuites\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : La mairie confirme une zone bleue active et met à jour son ordonnance ; certains parkings de rotation offrent une période initiale gratuite.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
+    },
     "43163": {
       "tiposZona": [
         "Zone bleue",
@@ -1831,6 +2379,16 @@
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : autorisée.\nDétails de la fiche :\n- Paiement : gratuit.\n- Ticket : non requis.\n- Inscription préalable : non requise.\n- Durée maximale : Vous pouvez rester le temps nécessaire en laissant la carte de stationnement PMR clairement visible, sauf indication contraire.\nPrécisions : Contexte général : El Vendrell dispose de zones de rotation et d’une réglementation saisonnière. Vérifiez la signalisation, car les secteurs et les horaires peuvent changer.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : El Vendrell dispose de zones de rotation et d’une réglementation saisonnière. Vérifiez la signalisation, car les secteurs et les horaires peuvent changer."
     },
+    "43905": {
+      "tiposZona": [
+        "Zone bleue",
+        "Zone verte"
+      ],
+      "limiteTiempo": "La durée générale dépend de la zone. Dans la zone verte de Cap Salou, la référence publiée pour les non-résidents est un maximum de 4 heures. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.",
+      "horarioRegulado": "Saison estivale 2026 : réglementation principale du 1er juin au 30 septembre, tous les jours de 10 h à 14 h et de 17 h à 21 h ; certains parkings ont des horaires prolongés.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket ou disque horaire.\n- Inscription préalable.\n- Exemption de la durée maximale.\nRéférence générale : La durée générale dépend de la zone. Dans la zone verte de Cap Salou, la référence publiée pour les non-résidents est un maximum de 4 heures. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : Salou dispose d’environ 2 000 places en zone bleue et a créé à Cap Salou une zone verte donnant la priorité aux résidents.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte de stationnement PMR dans les places ordinaires réglementées n’a été trouvée."
+    },
     "44216": {
       "tiposZona": [
         "Zone bleue",
@@ -1840,6 +2398,16 @@
       "horarioRegulado": "Selon le secteur et la signalisation.",
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : autorisée.\nDétails de la fiche :\n- Paiement : gratuit.\n- Ticket : non requis.\n- Inscription préalable : non requise.\n- Durée maximale : Pendant le temps nécessaire, sans paiement de la redevance, en affichant la carte de stationnement PMR.\nPrécisions : Contexte général : Teruel dispose de zones bleue et orange. Avec une carte de stationnement PMR, vous pouvez stationner gratuitement et sans ticket. Vous pouvez rester le temps nécessaire lorsque la carte est clairement visible.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : Teruel dispose de zones bleue et orange. Avec une carte de stationnement PMR, vous pouvez stationner gratuitement et sans ticket. Vous pouvez rester le temps nécessaire lorsque la carte est clairement visible."
+    },
+    "45081": {
+      "tiposZona": [
+        "Zone bleue",
+        "Zone orange"
+      ],
+      "limiteTiempo": "Zone bleue : maximum général de 2 heures. Zone orange/commerciale : maximum général d’une heure. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.",
+      "horarioRegulado": "Hiver : du lundi au vendredi de 9 h à 14 h et de 16 h 30 à 19 h 30 ; le samedi de 9 h à 14 h. Été : du lundi au vendredi de 9 h à 14 h et de 17 h 30 à 20 h 30 ; le samedi de 9 h à 14 h.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket ou disque horaire.\n- Inscription préalable.\n- Exemption de la durée maximale.\nRéférence générale : Zone bleue : maximum général de 2 heures. Zone orange/commerciale : maximum général d’une heure. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : Illescas dispose de zones bleue et orange avec des durées maximales et des horaires différents.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte de stationnement PMR dans les places ordinaires réglementées n’a été trouvée."
     },
     "45165": {
       "tiposZona": [
@@ -1871,12 +2439,26 @@
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : autorisée sous conditions.\nDétails de la fiche :\n- Paiement : paiement requis.\n- Ticket : requis.\n- Inscription préalable : non requise.\n- Durée maximale : La durée maximale générale est de 2 heures. Le véhicule doit ensuite être déplacé d’au moins 150 mètres.\nPrécisions : Contexte général : le fait de détenir une carte de stationnement PMR ne donne pas droit à la gratuité dans toutes les places bleues ; l’exemption publiée se limite aux places PMR signalées.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : le fait de détenir une carte de stationnement PMR ne donne pas droit à la gratuité dans toutes les places bleues ; l’exemption publiée se limite aux places PMR signalées."
     },
+    "46021": {
+      "tiposZona": [],
+      "limiteTiempo": "",
+      "horarioRegulado": "",
+      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.",
+      "observaciones": "Contexte général : aucune source municipale suffisamment claire et actuelle n’a été trouvée pour confirmer un service ordinaire de stationnement réglementé actif à Aldaia. Cela ne signifie pas qu’il n’en existe pas.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
+    },
     "46078": {
       "tiposZona": [],
       "limiteTiempo": "",
       "horarioRegulado": "",
       "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.\nContexte complémentaire : Contexte général : l’examen du site municipal, du guichet en ligne et de la réglementation accessible n’a pas permis de confirmer l’existence d’un service de stationnement réglementé.",
       "observaciones": "Contexte général : l’examen du site municipal, du guichet en ligne et de la réglementation accessible n’a pas permis de confirmer l’existence d’un service de stationnement réglementé.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
+    },
+    "46110": {
+      "tiposZona": [],
+      "limiteTiempo": "",
+      "horarioRegulado": "",
+      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.",
+      "observaciones": "Contexte général : aucune source municipale suffisamment claire et actuelle n’a été trouvée pour confirmer un service ordinaire de stationnement réglementé actif à Xirivella. Cela ne signifie pas qu’il n’en existe pas.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
     },
     "46131": {
       "tiposZona": [],
@@ -1885,12 +2467,38 @@
       "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.\nContexte complémentaire : Contexte général : il n’est actuellement pas possible de confirmer si Gandia dispose d’une zone réglementée. Cela ne signifie pas qu’il n’en existe pas ; les informations officielles disponibles ne sont pas suffisamment claires.",
       "observaciones": "Contexte général : il n’est actuellement pas possible de confirmer si Gandia dispose d’une zone réglementée. Cela ne signifie pas qu’il n’en existe pas ; les informations officielles disponibles ne sont pas suffisamment claires.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
     },
+    "46145": {
+      "tiposZona": [
+        "Zone ORA",
+        "Zone bleue"
+      ],
+      "limiteTiempo": "La durée générale dépend de la zone et du tarif en vigueur. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.",
+      "horarioRegulado": "Selon la zone, le calendrier et la signalisation municipale en vigueur.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket ou disque horaire.\n- Inscription préalable.\n- Exemption de la durée maximale.\nRéférence générale : La durée générale dépend de la zone et du tarif en vigueur. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : Xàtiva dispose d’un service ORA et de zones bleues dans différentes rues.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte de stationnement PMR dans les places ordinaires réglementées n’a été trouvée."
+    },
+    "46159": {
+      "tiposZona": [],
+      "limiteTiempo": "",
+      "horarioRegulado": "",
+      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.",
+      "observaciones": "Contexte général : aucune source municipale suffisamment claire et actuelle n’a été trouvée pour confirmer un service ordinaire de stationnement réglementé actif à Manises. Cela ne signifie pas qu’il n’en existe pas.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
+    },
     "46169": {
       "tiposZona": [],
       "limiteTiempo": "S’il s’agit d’une place PMR réservée située dans une zone réglementée, la durée maximale est de 8 heures. Le règlement permet le stationnement gratuit dans les places réglementées ordinaires.",
       "horarioRegulado": "",
       "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.\nContexte complémentaire : Contexte général : le règlement explique les avantages PMR, mais aucune publication confirmant l’existence actuelle d’une zone réglementée active n’a été trouvée.",
       "observaciones": "Contexte général : le règlement explique les avantages PMR, mais aucune publication confirmant l’existence actuelle d’une zone réglementée active n’a été trouvée.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
+    },
+    "46184": {
+      "tiposZona": [
+        "Zone bleue"
+      ],
+      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : durée générale maximale de 120 minutes",
+      "horarioRegulado": "Du lundi au vendredi de 9 h à 13 h 30 et de 16 h 30 à 20 h ; le samedi de 9 h à 13 h 30. Aucun service le dimanche et les jours fériés.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : durée générale maximale de 120 minutes\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : Le service ORA publie les horaires, les tarifs et une durée générale maximale.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
     },
     "46190": {
       "tiposZona": [
@@ -1977,6 +2585,15 @@
       "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nDétails de la fiche :\n- Paiement : non confirmé.\n- Ticket : non confirmé.\n- Inscription préalable : non confirmée.\n- Durée maximale : Cela dépend de la zone OTA et du type d’usager. Consultez la signalisation.\nPrécisions : Contexte général : Getxo dispose d’une zone OTA. Il reste à confirmer si la carte de stationnement PMR permet de stationner gratuitement, sans ticket ou plus longtemps.\nAvant de stationner : vérifiez la signalisation et les éventuelles consignes municipales.",
       "observaciones": "Contexte général : Getxo dispose d’une zone OTA. Il reste à confirmer si la carte de stationnement PMR permet de stationner gratuitement, sans ticket ou plus longtemps.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
     },
+    "48054": {
+      "tiposZona": [
+        "Stationnement réglementé"
+      ],
+      "limiteTiempo": "La durée générale dépend du secteur et de l’autorisation. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.",
+      "horarioRegulado": "Selon la zone et la signalisation en vigueur.",
+      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket ou disque horaire.\n- Inscription préalable.\n- Exemption de la durée maximale.\nRéférence générale : La durée générale dépend du secteur et de l’autorisation. Aucune exemption spécifique pour les titulaires d’une carte de stationnement PMR n’a été confirmée.\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
+      "observaciones": "Contexte général : Leioa dispose d’un service municipal de contrôle du stationnement réglementé des véhicules.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte de stationnement PMR dans les places ordinaires réglementées n’a été trouvée."
+    },
     "48078": {
       "tiposZona": [],
       "limiteTiempo": "",
@@ -2026,318 +2643,6 @@
       "horarioRegulado": "",
       "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- Existence actuelle d’une zone de stationnement réglementé.\n- Conditions spécifiques pour les titulaires d’une carte de stationnement PMR.\nAvant de stationner : vérifiez la signalisation dans la rue.\nContexte complémentaire : Contexte général : il n’est actuellement pas possible de confirmer si Melilla dispose d’une zone réglementée. Cela ne signifie pas qu’il n’en existe pas ; les informations officielles disponibles ne sont pas suffisamment claires.",
       "observaciones": "Contexte général : il n’est actuellement pas possible de confirmer si Melilla dispose d’une zone réglementée. Cela ne signifie pas qu’il n’en existe pas ; les informations officielles disponibles ne sont pas suffisamment claires.\nAvis : les informations non confirmées sont présentées séparément dans la rubrique « Conditions pour la carte de stationnement PMR »."
-    },
-    "15054": {
-      "tiposZona": [
-        "Zone bleue"
-      ],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : durée générale maximale d’une heure ; l’heure d’arrivée doit être affichée",
-      "horarioRegulado": "Du lundi au vendredi, de 8 h à 15 h.",
-      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : durée générale maximale d’une heure ; l’heure d’arrivée doit être affichée\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
-      "observaciones": "Contexte général : La mairie a instauré une zone bleue gratuite de rotation près de l’hôtel de ville, du centre de santé et de la bibliothèque, contrôlée par l’indication de l’heure d’arrivée.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
-    },
-    "08180": {
-      "tiposZona": [
-        "Zone bleue"
-      ],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : durée générale maximale de 60 minutes",
-      "horarioRegulado": "Du lundi au vendredi de 9 h à 13 h 30 et de 16 h 30 à 20 h ; le samedi de 9 h à 14 h. Aucun service le dimanche, les jours fériés et en août.",
-      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : durée générale maximale de 60 minutes\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
-      "observaciones": "Contexte général : Ripollet dispose d’une zone bleue gratuite de rotation ; l’heure d’arrivée doit être indiquée au moyen d’un disque, d’une horloge ou d’un papier.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
-    },
-    "03121": {
-      "tiposZona": [],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte de stationnement PMR n’a été confirmée.",
-      "horarioRegulado": "Aucun horaire confirmé de stationnement réglementé n’est disponible.",
-      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- L’existence actuelle d’une zone de stationnement réglementé.\n- Les conditions particulières applicables aux titulaires d’une carte PMR.\nAvant de stationner : vérifiez la signalisation de la rue.",
-      "observaciones": "Aucune zone de stationnement réglementé n’a été confirmée à Santa Pola. Cela ne signifie pas qu’il n’en existe pas : une source officielle claire et actuelle reste nécessaire. La fuente municipal consultada describe aparcamientos inteligentes, pero no confirma una zona ORA o azul ordinaria activa ni sus condiciones PMR."
-    },
-    "41039": {
-      "tiposZona": [],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte de stationnement PMR n’a été confirmée.",
-      "horarioRegulado": "Aucun horaire confirmé de stationnement réglementé n’est disponible.",
-      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- L’existence actuelle d’une zone de stationnement réglementé.\n- Les conditions particulières applicables aux titulaires d’une carte PMR.\nAvant de stationner : vérifiez la signalisation de la rue.",
-      "observaciones": "Aucune zone de stationnement réglementé n’a été confirmée à Écija. Cela ne signifie pas qu’il n’en existe pas : une source officielle claire et actuelle reste nécessaire. La revisión del portal municipal no ha permitido confirmar un servicio ordinario activo de zona azul u ORA."
-    },
-    "17114": {
-      "tiposZona": [
-        "Zone bleue",
-        "Zone verte"
-      ],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : la durée générale et les conditions dépendent de la zone et de la signalisation locale",
-      "horarioRegulado": "Aucun horaire particulier pour les titulaires d’une carte PMR n’a été confirmé.",
-      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : la durée générale et les conditions dépendent de la zone et de la signalisation locale\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
-      "observaciones": "Contexte général : Les informations municipales confirment un stationnement réglementé et des démarches liées aux zones bleue et verte.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
-    },
-    "20067": {
-      "tiposZona": [
-        "Secteur bleu",
-        "Secteur vert"
-      ],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : secteur bleu : durée générale maximale de 90 minutes ; secteur vert : durée générale maximale de 4 heures",
-      "horarioRegulado": "Jours ouvrables : du lundi au vendredi de 9 h 30 à 13 h 30 et de 16 h à 20 h ; le samedi de 9 h 30 à 13 h 30.",
-      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : secteur bleu : durée générale maximale de 90 minutes ; secteur vert : durée générale maximale de 4 heures\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
-      "observaciones": "Contexte général : L’ordonnance municipale de circulation réglemente le stationnement OTA avec des secteurs bleu et vert et exige un ticket visible.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
-    },
-    "08194": {
-      "tiposZona": [
-        "Zone bleue",
-        "Zone résidents"
-      ],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR dans les places bleues ordinaires n’a été confirmée.",
-      "horarioRegulado": "L’horaire dépend du secteur réglementé et de la signalisation locale.",
-      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : autorisée.\nLes informations municipales indiquent que la carte peut être utilisée dans les zones bleues et dans les places réservées aux personnes handicapées.\nInformations non confirmées :\n- Gratuité.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique.\nAvant de stationner : vérifiez la signalisation et affichez clairement la carte.",
-      "observaciones": "La commune dispose d’un stationnement réglementé bleu et de secteurs liés aux résidents. Le site municipal autorise expressément la carte PMR dans les zones bleues, sans préciser le paiement, le ticket ni la durée maximale."
-    },
-    "35006": {
-      "tiposZona": [
-        "Zone bleue"
-      ],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : consultez la signalisation de chaque tronçon",
-      "horarioRegulado": "Aucun horaire particulier pour les titulaires d’une carte PMR n’a été confirmé.",
-      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : consultez la signalisation de chaque tronçon\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
-      "observaciones": "Contexte général : La mairie a confirmé le maintien de la zone bleue comme système de rotation dans le centre-ville.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
-    },
-    "28130": {
-      "tiposZona": [],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte de stationnement PMR n’a été confirmée.",
-      "horarioRegulado": "Aucun horaire confirmé de stationnement réglementé n’est disponible.",
-      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- L’existence actuelle d’une zone de stationnement réglementé.\n- Les conditions particulières applicables aux titulaires d’une carte PMR.\nAvant de stationner : vérifiez la signalisation de la rue.",
-      "observaciones": "Aucune zone de stationnement réglementé n’a été confirmée à San Fernando de Henares. Cela ne signifie pas qu’il n’en existe pas : une source officielle claire et actuelle reste nécessaire. La fuente confirma trámites para tarjeta y plazas reservadas PMR, pero no una zona azul u ORA ordinaria activa."
-    },
-    "31232": {
-      "tiposZona": [
-        "Zone bleue",
-        "Zone verte"
-      ],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : consultez l’horodateur et la signalisation ; aucune durée maximale spécifique PMR n’a été confirmée",
-      "horarioRegulado": "Du lundi au vendredi de 9 h à 13 h 30 et de 16 h à 20 h ; le samedi de 9 h à 13 h 30.",
-      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : consultez l’horodateur et la signalisation ; aucune durée maximale spécifique PMR n’a été confirmée\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
-      "observaciones": "Contexte général : La mairie confirme des zones bleues payantes et des zones vertes destinées aux résidents.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
-    },
-    "15058": {
-      "tiposZona": [
-        "Zone réglementée ORA",
-        "Stationnement express"
-      ],
-      "limiteTiempo": "L’exclusion de la limitation générale exige une autorisation municipale spéciale. Aucune durée maximale spécifique PMR n’est publiée.",
-      "horarioRegulado": "Zone ORA : du 1er juin au 15 septembre, tous les jours y compris les jours fériés, de 12 h à 20 h. Places express : vérifiez la signalisation.",
-      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : autorisée sous conditions.\nLes véhicules appartenant à des personnes à mobilité réduite sont exclus de la limitation générale de l’ORA lorsqu’ils disposent de l’autorisation spéciale délivrée par la mairie.\nDétails de la fiche :\n- Paiement : gratuit avec l’autorisation spéciale.\n- Inscription ou autorisation préalable : requise.\nInformations non confirmées :\n- Nécessité d’obtenir un ticket.\n- Durée maximale spécifique PMR.\nAvant de stationner : affichez la carte et l’autorisation municipale et vérifiez la signalisation.",
-      "observaciones": "L’ORA fonctionne pendant la saison estivale et le stationnement express est gratuit avec une limite générale de 30 minutes. L’exception PMR dépend d’une autorisation municipale spéciale."
-    },
-    "41069": {
-      "tiposZona": [],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte de stationnement PMR n’a été confirmée.",
-      "horarioRegulado": "Aucun horaire confirmé de stationnement réglementé n’est disponible.",
-      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- L’existence actuelle d’une zone de stationnement réglementé.\n- Les conditions particulières applicables aux titulaires d’une carte PMR.\nAvant de stationner : vérifiez la signalisation de la rue.",
-      "observaciones": "Aucune zone de stationnement réglementé n’a été confirmée à Los Palacios y Villafranca. Cela ne signifie pas qu’il n’en existe pas : une source officielle claire et actuelle reste nécessaire. Las actuaciones municipales consultadas reorganizan estacionamientos, pero no confirman una zona azul u ORA ordinaria activa."
-    },
-    "33031": {
-      "tiposZona": [],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte de stationnement PMR n’a été confirmée.",
-      "horarioRegulado": "Aucun horaire confirmé de stationnement réglementé n’est disponible.",
-      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- L’existence actuelle d’une zone de stationnement réglementé.\n- Les conditions particulières applicables aux titulaires d’une carte PMR.\nAvant de stationner : vérifiez la signalisation de la rue.",
-      "observaciones": "Aucune zone de stationnement réglementé n’a été confirmée à Langreo. Cela ne signifie pas qu’il n’en existe pas : une source officielle claire et actuelle reste nécessaire. No se ha localizado una referencia municipal clara a una zona azul u ORA ordinaria activa."
-    },
-    "28015": {
-      "tiposZona": [],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte de stationnement PMR n’a été confirmée.",
-      "horarioRegulado": "Aucun horaire confirmé de stationnement réglementé n’est disponible.",
-      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- L’existence actuelle d’une zone de stationnement réglementé.\n- Les conditions particulières applicables aux titulaires d’une carte PMR.\nAvant de stationner : vérifiez la signalisation de la rue.",
-      "observaciones": "Aucune zone de stationnement réglementé n’a été confirmée à Arroyomolinos. Cela ne signifie pas qu’il n’en existe pas : une source officielle claire et actuelle reste nécessaire. La revisión del portal municipal no ha permitido confirmar un servicio de estacionamiento regulado ordinario."
-    },
-    "06044": {
-      "tiposZona": [
-        "Zone bleue",
-        "Zone résidents"
-      ],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : consultez l’horodateur, l’application et la signalisation de chaque secteur",
-      "horarioRegulado": "Aucun horaire particulier pour les titulaires d’une carte PMR n’a été confirmé.",
-      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : consultez l’horodateur, l’application et la signalisation de chaque secteur\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
-      "observaciones": "Contexte général : La mairie a réactivé la zone bleue dans plusieurs rues en avril 2025 et maintient des dispositifs liés aux résidents.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
-    },
-    "12032": {
-      "tiposZona": [],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte de stationnement PMR n’a été confirmée.",
-      "horarioRegulado": "Aucun horaire confirmé de stationnement réglementé n’est disponible.",
-      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- L’existence actuelle d’une zone de stationnement réglementé.\n- Les conditions particulières applicables aux titulaires d’une carte PMR.\nAvant de stationner : vérifiez la signalisation de la rue.",
-      "observaciones": "Aucune zone de stationnement réglementé n’a été confirmée à Borriana/Burriana. Cela ne signifie pas qu’il n’en existe pas : une source officielle claire et actuelle reste nécessaire. La fuente confirma la existencia y control de plazas reservadas PMR, pero no permite confirmar una zona azul u ORA ordinaria activa."
-    },
-    "36060": {
-      "tiposZona": [
-        "Zone bleue"
-      ],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : durée générale maximale d’une heure ; l’heure d’arrivée doit être affichée au moyen d’un disque",
-      "horarioRegulado": "Aucun horaire particulier pour les titulaires d’une carte PMR n’a été confirmé.",
-      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : durée générale maximale d’une heure ; l’heure d’arrivée doit être affichée au moyen d’un disque\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
-      "observaciones": "Contexte général : Les informations touristiques municipales confirment une zone bleue gratuite d’une heure, avec un disque indiquant l’heure d’arrivée.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
-    },
-    "38031": {
-      "tiposZona": [
-        "Zone bleue"
-      ],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : durée générale maximale d’une heure",
-      "horarioRegulado": "Du lundi au vendredi de 9 h 30 à 13 h 30 et de 16 h 30 à 20 h ; le samedi de 10 h à 13 h 30. Aucun service le dimanche et les jours fériés.",
-      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : durée générale maximale d’une heure\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
-      "observaciones": "Contexte général : La mairie confirme une zone bleue gratuite avec contrôle automatique des plaques d’immatriculation.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
-    },
-    "30003": {
-      "tiposZona": [
-        "Zone bleue",
-        "Zone orange"
-      ],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : consultez la signalisation et les conditions de chaque zone",
-      "horarioRegulado": "Aucun horaire particulier pour les titulaires d’une carte PMR n’a été confirmé.",
-      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : consultez la signalisation et les conditions de chaque zone\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
-      "observaciones": "Contexte général : Le catalogue municipal des démarches comprend des autorisations liées à la zone bleue, à la zone orange et à la carte PMR.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
-    },
-    "08125": {
-      "tiposZona": [
-        "Zone orange"
-      ],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : durée générale habituelle d’une heure ; certains secteurs signalés sont limités à 30 minutes",
-      "horarioRegulado": "Aucun horaire particulier pour les titulaires d’une carte PMR n’a été confirmé.",
-      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : durée générale habituelle d’une heure ; certains secteurs signalés sont limités à 30 minutes\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
-      "observaciones": "Contexte général : La mairie a remplacé la zone bleue payante par des zones orange gratuites de rotation, avec obligation d’indiquer l’heure d’arrivée.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
-    },
-    "03139": {
-      "tiposZona": [
-        "Zone bleue",
-        "Zone orange"
-      ],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : durée générale maximale publiée de 118 minutes pour les visiteurs dans les zones bleue et orange",
-      "horarioRegulado": "Zone bleue : du lundi au vendredi de 10 h à 14 h et de 16 h à 20 h ; le samedi de 10 h à 14 h ; libre le dimanche et les jours fériés. Zone orange : du 15 juin au 15 septembre, tous les jours de 9 h à 20 h.",
-      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : durée générale maximale publiée de 118 minutes pour les visiteurs dans les zones bleue et orange\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
-      "observaciones": "Contexte général : Le service ORA confirme des zones bleue et orange payantes avec des horaires différents.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
-    },
-    "13082": {
-      "tiposZona": [
-        "Zone bleue"
-      ],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : consultez l’horodateur, l’application Telpark et la signalisation",
-      "horarioRegulado": "Aucun horaire particulier pour les titulaires d’une carte PMR n’a été confirmé.",
-      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : consultez l’horodateur, l’application Telpark et la signalisation\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
-      "observaciones": "Contexte général : La mairie confirme le service de zone bleue, géré par Dornier/Telpark.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
-    },
-    "43038": {
-      "tiposZona": [
-        "Zone bleue"
-      ],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : durée générale maximale de 4 heures dans la zone de plage et de 2 heures dans le centre urbain",
-      "horarioRegulado": "Du lundi au vendredi de 10 h à 13 h et de 17 h à 20 h ; le samedi de 10 h à 13 h, sauf jours fériés. Une réglementation saisonnière peut s’appliquer selon les secteurs.",
-      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : durée générale maximale de 4 heures dans la zone de plage et de 2 heures dans le centre urbain\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
-      "observaciones": "Contexte général : La mairie publie les règles de la zone bleue pour les secteurs de plage et du centre urbain.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
-    },
-    "46184": {
-      "tiposZona": [
-        "Zone bleue"
-      ],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : durée générale maximale de 120 minutes",
-      "horarioRegulado": "Du lundi au vendredi de 9 h à 13 h 30 et de 16 h 30 à 20 h ; le samedi de 9 h à 13 h 30. Aucun service le dimanche et les jours fériés.",
-      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : durée générale maximale de 120 minutes\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
-      "observaciones": "Contexte général : Le service ORA publie les horaires, les tarifs et une durée générale maximale.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
-    },
-    "28061": {
-      "tiposZona": [
-        "Zone bleue",
-        "Zone verte"
-      ],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : consultez l’horodateur et la signalisation ; la durée maximale dépend du type de zone",
-      "horarioRegulado": "Du lundi au vendredi de 9 h à 14 h et de 16 h à 21 h ; le samedi de 10 h à 14 h. Aucun service le dimanche et les jours fériés.",
-      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : consultez l’horodateur et la signalisation ; la durée maximale dépend du type de zone\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
-      "observaciones": "Contexte général : Le Service municipal de stationnement réglementé confirme des zones bleue et verte avec ticket.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
-    },
-    "09219": {
-      "tiposZona": [
-        "Zone réglementée ORA",
-        "Zone bleue"
-      ],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : consultez la signalisation et l’ordonnance ; aucune durée maximale spécifique PMR n’a été confirmée",
-      "horarioRegulado": "Du lundi au vendredi de 9 h 30 à 14 h et de 16 h 30 à 20 h ; le samedi de 9 h 30 à 14 h.",
-      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : consultez la signalisation et l’ordonnance ; aucune durée maximale spécifique PMR n’a été confirmée\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
-      "observaciones": "Contexte général : La mairie maintient et étend la zone bleue réglementée par l’ordonnance ORA.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
-    },
-    "30035": {
-      "tiposZona": [],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte de stationnement PMR n’a été confirmée.",
-      "horarioRegulado": "Aucun horaire confirmé de stationnement réglementé n’est disponible.",
-      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- L’existence actuelle d’une zone de stationnement réglementé.\n- Les conditions particulières applicables aux titulaires d’une carte PMR.\nAvant de stationner : vérifiez la signalisation de la rue.",
-      "observaciones": "Aucune zone de stationnement réglementé n’a été confirmée à San Javier. Cela ne signifie pas qu’il n’en existe pas : une source officielle claire et actuelle reste nécessaire. No se ha localizado una referencia municipal clara y actual que confirme una zona azul u ORA ordinaria activa."
-    },
-    "30043": {
-      "tiposZona": [
-        "Zone bleue"
-      ],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : consultez la signalisation et l’ordonnance en vigueur",
-      "horarioRegulado": "Aucun horaire particulier pour les titulaires d’une carte PMR n’a été confirmé.",
-      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : consultez la signalisation et l’ordonnance en vigueur\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
-      "observaciones": "Contexte général : La mairie révise la réglementation de la zone bleue, ce qui confirme l’existence du service.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
-    },
-    "33037": {
-      "tiposZona": [
-        "Zone bleue"
-      ],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : durée générale maximale de 2 heures ; le véhicule doit ensuite changer de zone",
-      "horarioRegulado": "Aucun horaire particulier pour les titulaires d’une carte PMR n’a été confirmé.",
-      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : durée générale maximale de 2 heures ; le véhicule doit ensuite changer de zone\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
-      "observaciones": "Contexte général : La mairie confirme une zone bleue gratuite nécessitant un ticket à l’horodateur ou via une application, avec une limite générale de deux heures.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
-    },
-    "07027": {
-      "tiposZona": [
-        "Zone bleue"
-      ],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : consultez la signalisation ; aucune durée générale actuelle complète n’a été trouvée",
-      "horarioRegulado": "Aucun horaire particulier pour les titulaires d’une carte PMR n’a été confirmé.",
-      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : consultez la signalisation ; aucune durée générale actuelle complète n’a été trouvée\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
-      "observaciones": "Contexte général : Une communication municipale confirme des places gratuites en zone bleue, mais la source trouvée ne détaille pas l’ensemble des règles actuelles.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
-    },
-    "43155": {
-      "tiposZona": [
-        "Zone bleue"
-      ],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : la durée dépend du secteur ; certains parkings de rotation offrent 2 h 30 gratuites",
-      "horarioRegulado": "Aucun horaire particulier pour les titulaires d’une carte PMR n’a été confirmé.",
-      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : la durée dépend du secteur ; certains parkings de rotation offrent 2 h 30 gratuites\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
-      "observaciones": "Contexte général : La mairie confirme une zone bleue active et met à jour son ordonnance ; certains parkings de rotation offrent une période initiale gratuite.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
-    },
-    "08217": {
-      "tiposZona": [
-        "Zone bleue",
-        "Zone verte",
-        "Zone P+R"
-      ],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte PMR n’a été confirmée. Référence générale : consultez la signalisation de chaque zone ; la zone bleue exige un ticket",
-      "horarioRegulado": "Aucun horaire particulier pour les titulaires d’une carte PMR n’a été confirmé.",
-      "condicionesPmr": "Utilisation avec une carte de stationnement PMR : non confirmée.\nInformations non confirmées :\n- Paiement.\n- Ticket.\n- Inscription préalable.\n- Durée maximale spécifique aux titulaires d’une carte PMR.\nRéférence générale : consultez la signalisation de chaque zone ; la zone bleue exige un ticket\nAvant de stationner : vérifiez la signalisation et les consignes du service.",
-      "observaciones": "Contexte général : La mairie confirme des zones bleue, verte et P+R avec des règles différentes.\nAvis : aucune règle suffisamment claire pour les titulaires d’une carte PMR dans les places réglementées ordinaires n’a été trouvée."
-    },
-    "19046": {
-      "tiposZona": [],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte de stationnement PMR n’a été confirmée.",
-      "horarioRegulado": "Aucun horaire confirmé de stationnement réglementé n’est disponible.",
-      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- L’existence actuelle d’une zone de stationnement réglementé.\n- Les conditions particulières applicables aux titulaires d’une carte PMR.\nAvant de stationner : vérifiez la signalisation de la rue.",
-      "observaciones": "Aucune zone de stationnement réglementé n’a été confirmée à Azuqueca de Henares. Cela ne signifie pas qu’il n’en existe pas : une source officielle claire et actuelle reste nécessaire. La revisión del portal municipal y su normativa no ha permitido confirmar una zona azul u ORA ordinaria activa."
-    },
-    "23005": {
-      "tiposZona": [],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte de stationnement PMR n’a été confirmée.",
-      "horarioRegulado": "Aucun horaire confirmé de stationnement réglementé n’est disponible.",
-      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- L’existence actuelle d’une zone de stationnement réglementé.\n- Les conditions particulières applicables aux titulaires d’une carte PMR.\nAvant de stationner : vérifiez la signalisation de la rue.",
-      "observaciones": "Aucune zone de stationnement réglementé n’a été confirmée à Andújar. Cela ne signifie pas qu’il n’en existe pas : une source officielle claire et actuelle reste nécessaire. No se ha localizado una fuente municipal clara y actual que confirme una zona azul u ORA ordinaria activa."
-    },
-    "30019": {
-      "tiposZona": [],
-      "limiteTiempo": "Aucune durée maximale spécifique aux titulaires d’une carte de stationnement PMR n’a été confirmée.",
-      "horarioRegulado": "Aucun horaire confirmé de stationnement réglementé n’est disponible.",
-      "condicionesPmr": "Zone de stationnement réglementé : aucun service actif n’a été confirmé.\nInformations non confirmées :\n- L’existence actuelle d’une zone de stationnement réglementé.\n- Les conditions particulières applicables aux titulaires d’une carte PMR.\nAvant de stationner : vérifiez la signalisation de la rue.",
-      "observaciones": "Aucune zone de stationnement réglementé n’a été confirmée à Cieza. Cela ne signifie pas qu’il n’en existe pas : une source officielle claire et actuelle reste nécessaire. La referencia municipal localizada trataba la zona azul como una propuesta; no se ha confirmado su implantación actual."
-    },
-    "30026": {
-      "tiposZona": [],
-      "limiteTiempo": "Les places municipales réservées PMR sont en principe sans limite de durée. La durée applicable à une place réglementée ordinaire n’a pas été confirmée.",
-      "horarioRegulado": "Aucun horaire confirmé de stationnement réglementé n’est disponible.",
-      "condicionesPmr": "Zone de stationnement réglementé ordinaire : aucun service actif n’a été confirmé.\nInformations confirmées :\n- Les places signalées et réservées aux titulaires d’une carte PMR sont en principe permanentes et sans limite de durée.\nInformations non confirmées :\n- Utilisation des places ordinaires d’une éventuelle zone réglementée.\n- Paiement.\n- Ticket.\n- Inscription préalable.\nAvant de stationner : affichez la carte PMR et vérifiez la signalisation de la place.",
-      "observaciones": "Aucune zone de stationnement réglementé n’a été confirmée à Mazarrón. Cela ne signifie pas qu’il n’en existe pas : une source officielle claire et actuelle reste nécessaire. La ordenanza confirma plazas reservadas PMR sin limitación horaria y prevé su ubicación en zonas reguladas, pero no identifica un servicio ordinario activo ni sus reglas actuales."
     }
   }
 }
