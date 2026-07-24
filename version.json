@@ -4,10 +4,10 @@
   "municipiosTotales": 8132,
   "municipiosRevisados": 228,
   "archivo": "municipios.json",
-  "versionTraduccionesEn": 2,
-  "municipiosTraducidosEn": 1,
+  "versionTraduccionesEn": 3,
+  "municipiosTraducidosEn": 228,
   "archivoTraduccionesEn": "traducciones_en.json",
-  "versionTraduccionesFr": 2,
-  "municipiosTraducidosFr": 1,
+  "versionTraduccionesFr": 3,
+  "municipiosTraducidosFr": 228,
   "archivoTraduccionesFr": "traducciones_fr.json"
 }
