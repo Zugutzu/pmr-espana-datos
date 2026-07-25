@@ -1,13 +1,15 @@
 {
-  "versionDatos": 4,
+  "versionDatos": 7,
   "fechaActualizacion": "2026-07-24",
   "municipiosTotales": 8132,
-  "municipiosRevisados": 300,
+  "municipiosRevisados": 1057,
+  "municipiosConCoberturaInicial": 8132,
+  "municipiosDeducidos": 7075,
   "archivo": "municipios.json",
-  "versionTraduccionesEn": 5,
-  "municipiosTraducidosEn": 300,
+  "versionTraduccionesEn": 8,
+  "municipiosTraducidosEn": 8132,
   "archivoTraduccionesEn": "traducciones_en.json",
-  "versionTraduccionesFr": 5,
-  "municipiosTraducidosFr": 300,
+  "versionTraduccionesFr": 8,
+  "municipiosTraducidosFr": 8132,
   "archivoTraduccionesFr": "traducciones_fr.json"
 }
